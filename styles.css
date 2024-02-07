@@ -19,6 +19,10 @@ a:visited {
     color: #990099; /* Purple color for visited links */
 }
 
+a:visited:hover {
+    color: #660066; /* Darker shade of purple for visited links on hover */
+}
+
 #container {
     max-width: 800px;
     margin: 0 auto;
