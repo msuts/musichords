@@ -6,6 +6,19 @@ body {
     padding: 0;
 }
 
+a {
+    color: #55acee; /* Twitter blue color */
+    text-decoration: none; /* Remove underline from links */
+}
+
+a:hover {
+    color: #007bb5; /* Darker shade of blue on hover */
+}
+
+a:visited {
+    color: #990099; /* Purple color for visited links */
+}
+
 #container {
     max-width: 800px;
     margin: 0 auto;
