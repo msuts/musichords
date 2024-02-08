@@ -54,6 +54,10 @@ h1 {
     box-sizing: border-box; /* Include padding and border in the column's total width */
 }
 
+.artist-page h2 {
+    text-align: center; /* Center the h2 elements on artist pages */
+}
+
 .columns {
     display: flex; /* Use flexbox layout */
     flex-wrap: wrap; /* Wrap columns to the next line if they don't fit */
