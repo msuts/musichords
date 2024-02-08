@@ -39,21 +39,23 @@ h1 {
     margin-bottom: 20px;
 }
 
-ul {
+/* Bulleted Lists for Index Page */
+.index-page ul {
     list-style-type: disc;
-    margin-left: 0; /* Set left margin to 0 */
-    padding-left: 20px; /* Add padding to align bullets */
+    margin-left: 20px; /* Regular indentation for index page */
+    padding-left: 20px;
+}
+
+/* Bulleted Lists for Artist Pages */
+.artist-page ul {
+    width: 246px; /* Set a fixed width for each column */
+    padding: 0px; /* Add padding around each column */
+    margin: 0 10px; /* Adjust margin to reduce space between columns */
+    box-sizing: border-box; /* Include padding and border in the column's total width */
 }
 
 .columns {
     display: flex; /* Use flexbox layout */
     flex-wrap: wrap; /* Wrap columns to the next line if they don't fit */
     justify-content: space-between; /* Distribute space between columns */
-}
-
-.column {
-    width: 246px; /* Set a fixed width for each column */
-    padding: 0px; /* Add padding around each column */
-    margin: 0 10px; /* Adjust margin to reduce space between columns */
-    box-sizing: border-box; /* Include padding and border in the column's total width */
 }
