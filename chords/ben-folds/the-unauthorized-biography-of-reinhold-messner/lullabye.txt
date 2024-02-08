@@ -1,0 +1,111 @@
+LULLABYE by BEN FOLDS FIVE
+from "THE UNAUTHORIZED BIOGRAPHY OF REINHOLD MESSNER"
+[[Note: Some of these chords are really textured and complicated especially if you're looking to use these on guitar. If a chord needs to be played a certain way, it is notated at the bottom of the file. If these chords are too hard to use, I will be releasing a simplified transcription alongside this one which will be less accurate but easier to read.]]
+
+     C      F    G           C     F/C  C
+Good night, good night sweet baby
+C/E  F5*       F5/E     F5/D   F5/E
+The  world has more for you
+F5      G
+Than it seems
+     G/F    Csus4/E  Gsus4-7/D**
+Good night, good     night
+        C         F        G   F/G      C       F/C
+Let the moonlight take the lid off your dreams
+
+C  F/C***  C  F/C
+C  F/C     C  F/C
+C  F/C     C  F/C
+C  F/C     C
+
+F/C  C      F     G
+We   took a small flight
+F      C      Fadd9  G
+In the middle of the night
+F    C     Fadd9  G     Fadd9   C       Fadd9  G
+From one tiny     place to      another
+F      C       F      G
+And my parents they remained
+F      C     Fadd9     G
+At the shack with   Lorraine
+F      C        Fadd9  G           C        F  G
+And my aunt and my     Grandpa and brother
+
+[individual notes, played as octaves: G  F#  G  G#]
+
+   Am              E
+We walked past the tarmac
+    Am          D****  Em****  D/F#
+And boarded the craft
+    G           G7/F           G5/E  D#m7*****  Dm7
+The rain had me chilled to the bones
+G7       C     F  G  F    C      F    G
+Just the three of us took flight that night
+F     C        F      G     F    C      F
+Uncle Richard, me and James Earl Jones
+
+[all octaves played over low G:
+C D D# E G A C D]
+
+PIANO SOLO pt 1:
+C  F  G  F
+C  F  G  F
+C  F  G  F
+C  F  G
+C  F  G  F
+C  F  G
+C  F  G  F
+C  F  C
+
+[octaves: C B C]
+
+PIANO SOLO pt 2:
+[This part is too cool to just give basic chords, so here's a breakdown of what each hand does, in individual notes. Use Notepad and turn off Word Wrap and make the window full screen if the formatting is bad. Follow the recording and this should hopefully make sense. Dashes represent 6/8 beats counted in 6, equals signs indicate 16th notes. Lower case t indicates triplet figure.]
+RH: | A - - - B C |  C# - - D - E=F  |  F# - G D - C  |  G# - - tA=Bt A=E=C=A=E=C  |
+LH: | Dm7         |  Fdim            |  C/E           |  F#dim7 [F#-C-E chord]     |
+
+Fmaj7/G
+
+Em7 (tremolo G-D)  Em/F#  Em/G
+A7
+Dm7
+F/G (just try and play a descending scale as fast as you can, regardless of how sloppy it is)
+
+
+[Individual solo notes are in brackets after each segment]
+
+C  F  G  [G-D  C  G  F-chord  G-C]
+C  F  G  [C-chord Dm-chord F-chord Em-chord C-chord G F-chord]
+C  F  G  [C C C C C C C really fast, Eb-Gb  E natural-G natural  F-A]
+C  F  G
+
+[Octaves: G  F#  G  G#]
+
+        Am       E         Am
+And the pilot he gave me a blanket
+        D****    Em****   D/F#
+And the tall     dark     man 
+G       G7/F       G5/E        D#m7***** Dm7
+Sang to me in deep rich tones
+
+     C      F    G           C     F/C  C
+Good night, good night sweet baby
+C/E  F5*       F5/E     F5/D   F5/E
+The  world has more for you
+F5      G
+Than it seems
+     G/F    Csus4/E  Gsus4-7/D**
+Good night, good     night
+        C         F        G   F/G      C       F/C
+Let the moonlight take the lid off your dreams
+
+----- NOTES -----
+* "F5" and "G5" as written here is voiced inverted using using C-F or D-G above middle C.
+
+** Gsus4-7/D is voiced with a D as the root and the following notes above it: G-C-D-F.
+
+*** When playing the F/C, Ben often uses Ab as a grace note to the A in the F chord. Listen to the recording to get the idea of what he's doing, it's just a simple grace note. The high D in the solo also uses a C# grace note.
+
+**** These chords are played with single note or octaves in the bass, and without the fifth of the triad (ex. D is D-F#, Em is E-G).
+
+***** Do not play the G# (the third) of the triad, this is a very short and smooth transition chord to the Dm.

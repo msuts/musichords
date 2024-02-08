@@ -1,0 +1,25 @@
+left hand
+C F/A G F
+
+C chord
+roll up G C D E
+
+A bass
+F-A-F
+G-E-G
+A-F-A
+B-G-B
+C-A-C
+B-G-B
+C-A-C
+D-F-D
+
+G bass
+F-A-F
+E-G-E
+C-E-C
+C/G chord
+C7 chord
+
+F bass
+F chord

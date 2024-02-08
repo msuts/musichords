@@ -1,0 +1,53 @@
+Intro:
+
+Left Hand  C-G fifth
+Right Hand C G C D E D C G
+
+Left Hand  G-D fifth
+Right Hand B G D-down D-up B G
+
+Left Hand  Am triad
+Right Hand A E A B C B A
+
+Left Hand  B-E
+Right Hand G#-C G#-D G#-E G#-F
+
+Left Hand  D5-7
+Right Hand Fmaj7 Fmaj7-quickroll E-G C-E
+
+Left Hand  G
+Right Hand B-D G G B C B G
+
+Left Hand  D5-7 (octave down all)
+Right Hand Fmaj7 Fmaj7-quickroll E-G C-E (octave down all)
+
+Left Hand  G (octave down all)
+Right Hand B-D (octave down all) G G B C B G
+
+----------------------------------------
+
+Repeat all octave down:
+
+Left Hand  C-G fifth
+Right Hand C G C D E D C G
+
+Left Hand  G-D fifth
+Right Hand B G D-down D-up B G
+
+Left Hand  Am triad
+Right Hand A E A B C B A
+
+Left Hand  B-E
+Right Hand G#-C G#-D G#-E G#-F
+
+Left Hand  D5-7
+Right Hand Fmaj7 Fmaj7-quickroll E-G C-E
+
+Left Hand  G
+Right Hand B-D G G B C B G
+
+Left Hand  D5-7
+Right Hand Fmaj7 Fmaj7-quickroll E-G C-E
+
+Left Hand  G octave
+Right Hand G chord - Dm chord - G chord - Dm chord

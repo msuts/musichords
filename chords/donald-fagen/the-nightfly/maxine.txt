@@ -1,0 +1,103 @@
+[DETAILED INTRO]
+RH | G=Ab=C     F   G-Ab | C=Db=F     Bb  Ab-G  | G =C   F  G-Ab | F=Ab=C=F  C-F-Ab-C  B=Eb=B  Eb |
+LH | F       C  Ab  E-Eb | Bb      F  Db        | Eb=Bb          | Db=Ab=F             F          |
+
+RH | C       C=F  G-G-Ab | G  G=C=Eb  Gb=Bb=Eb=F  Eb | F#=A=B=D      F#-D-G-A | A=E=B  C-B-A  D#=A=B=D  C-B-A |
+LH | Ab  Eb  G           | A          D              | G         Eb           | F#=E          F=D#            |
+
+
+
+[INTRO]
+Fm2      Bbm2
+Eb6      Dbmaj7     Db9
+Abmaj13  Am7b5      Daug9
+Gmaj9    B7sus4/F#  CmMaj9/F
+
+[VERSE 1]
+C#m7b5                Bbaug/C
+  Some say that we're reckless
+     Am7                E2/G#
+They say we're much too young
+Am9          D7   G7/F           Asus2/B  Abaug/Bb
+  Tell us to stop before we've begun
+Am9            F#aug         F#m7/B     Fm7/Bb  Am9
+  We've got to hold out till grad - u - at   -  ion
+
+[REFRAIN 1]
+Am7  Am  Cdim/B  Em7  Eb
+Try  to  hang    on  
+Ebmaj9   Am7  Eb9  C4/D  B7+
+Max   -  ine        
+
+[VERSE 2]
+C#m7b5                Bbaug/C
+   While the world is sleeping
+   Am7             E2/G#
+We meet at Lincoln Mall
+Am9          D7       G7/F          Asus2/B  Abaug/Bb
+  Talk about life the meaning of it all
+Am9         F#aug        F#m9/B  F#m7/B  Fm7/Bb  Am9
+Try to make sense of the sub  -  urb  -  an      sprawl
+
+[REFRAIN 2]
+Am7  Am  Cdim/B  Em7  Eb
+Try  to  hang    on  
+Ebmaj9   Am7  A7aug  Am9  Cm9/F
+Max   -  ine           
+
+[BRIDGE]
+Eb/F     Ebmaj7  
+  Mexico City 
+D7dim             Db7/G
+  Is like another world
+Cm9         Ebmaj9/F      Bbmaj9
+  Nice this year     they say
+Eb/F                Ebmaj7
+  You'll be my senorita
+Gm9  E7dim     A+7#9 
+  In jeans and pearls
+    Dm9             G7b9         Cm9
+But first let's get off this highway
+         Am9      B7#5
+Off this highway
+
+[VERSE 3]
+C#m7b5                Bbaug/C
+  We'll move up to Manhattan
+    Am7                 E2/G#
+And fill the place with friends
+Am9            D7        G7/F              Asus2/B  Abaug/Bb
+  Drive to the coast and drive right back again
+Am9             F#aug         F#m9/B  F#m7/B  Fm7/Bb  Am9
+  One day we'll wake up, make love    but     'til    then
+
+[REFRAIN 3]
+Am7  Am  Cdim/B  Em7  Eb
+Try  to  hang    on  
+Ebmaj9   Am7  A7aug  Am9  Cm9/F
+Max   -  ine
+
+[SAX SOLO]     
+Eb/F   Ebmaj7  
+D7dim  Db7/G
+Cm9    Ebmaj9/F  Bbmaj9
+Eb/F   Ebmaj7
+Gm9    E7dim     A+7#9 
+Dm9    G7b9      Cm9
+Am9    B7#5
+
+[VERSE 4]
+C#m7b5                Bbaug/C
+  We'll move up to Manhattan
+    Am7                 E2/G#
+And fill the place with friends
+Am9            D7        G7/F              Asus2/B  Abaug/Bb
+  Drive to the coast and drive right back again
+Am9             F#aug         F#m9/B  F#m7/B  Fm7/Bb  Am9
+  One day we'll wake up, make love    but     'til    then
+
+[REFRAIN 4/OUTRO]
+Am7  Am  Cdim/B  Em7  Eb
+Try  to  hang    on  
+Ebmaj9  Fmaj13  Bbmaj13  Ebmaj7  Gmaj9
+Max  -  ine

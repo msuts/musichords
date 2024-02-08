@@ -1,3 +1,4 @@
+/* Global Styles */
 body {
     background-color: #1a1a1a; /* Dark grayish background */
     color: #e6e6e6; /* Light gray text */
@@ -23,6 +24,7 @@ a:visited:hover {
     color: #660066; /* Darker shade of purple for visited links on hover */
 }
 
+/* Layout Styles */
 #container {
     max-width: 800px;
     margin: 0 auto;
@@ -39,5 +41,19 @@ h1 {
 
 ul {
     list-style-type: disc;
-    margin-left: 20px;
+    margin-left: 0; /* Set left margin to 0 */
+    padding-left: 20px; /* Add padding to align bullets */
+}
+
+.columns {
+    display: flex; /* Use flexbox layout */
+    flex-wrap: wrap; /* Wrap columns to the next line if they don't fit */
+    justify-content: space-between; /* Distribute space between columns */
+}
+
+.column {
+    width: 246px; /* Set a fixed width for each column */
+    padding: 0px; /* Add padding around each column */
+    margin: 0 10px; /* Adjust margin to reduce space between columns */
+    box-sizing: border-box; /* Include padding and border in the column's total width */
 }
