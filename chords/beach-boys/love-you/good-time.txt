@@ -1,7 +1,10 @@
-[Intro]
+GOOD TIME by THE BEACH BOYS
+from the album THE BEACH BOYS LOVE YOU (1977)
+
+[INTRO]
 B  F#  B  F#
 
-[Verse 1]
+[VERSE 1]
    B                      F#7/C
 My girlfriend Betty she's always ready
    B/D#           E
@@ -11,7 +14,7 @@ She'll do my cookin' she's always lookin'
     B/D#                 A#7
 For ways she can make my day
 
-[Pre-Chorus 1]
+[PRECHORUS 1]
     D#m
 And when I'm lookin' at her the sound of pitter patter
    G#
@@ -21,7 +24,7 @@ Could get you feelin' warmer
     C#                            F#8
 And you know what-a that can lead to
 
-[Chorus 1]
+[CHORUS 1]
 B                       E
 Maybe it won't last but what do we care
    F#                     B
@@ -31,7 +34,7 @@ Might go up in smoke now but what do we care
    F#                     B                
 My baby and I just want a good time
 
-[Verse 2]
+[VERSE 2]
    B                       F#7/C
 My girlfriend Penny, she's kinda skinny
     B/D#                     E
@@ -41,7 +44,7 @@ She don't like cookin' but she's so good lookin'
   B/D#                A#7
 I miss her when she's gone
 
-[Pre-Chorus 2]
+[PRECHORUS 2]
     D#m
 And when she gets to dancin' I feel just like romancin'
  G#
@@ -51,7 +54,7 @@ She'll do the dirty boogie
     C#                     F#7
 And that's when I go up in smoke
 
-[Chorus 2]
+[CHORUS 2]
 B                       E
 Maybe it won't last but what do we care
    F#                     B
@@ -61,13 +64,13 @@ Might end up in tears now but what do we care
    F#                     B
 My baby and I just want a good time
 
-[Bridge]
+[BRIDGE]
 B                    F#7
  Whoa whoa whoa whoa whoa, whoa whoa
  B                            F#7
 Wooo woo whoa whoa whoa, whoa whoa
 
-[Chorus 3]
+[CHORUS 3]
 B                       E
 Maybe it won't last but what do we care
    F#                     B
@@ -77,6 +80,6 @@ For just a few hours with nu?h what do we care
              B
 Let's have a good time
 
-[Outro]
+[OUTRO]
 B  E  F#      B
       (Hey!)

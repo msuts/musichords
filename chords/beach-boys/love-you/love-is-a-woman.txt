@@ -1,4 +1,7 @@
-[Chorus 1]
+LOVE IS A WOMAN by THE BEACH BOYS
+from the album THE BEACH BOYS LOVE YOU (1977)
+
+[CHORUS 1]
 Ab   Cm     Db    Bbm7
 Love   is a woman
    Ab        Fm7   Bbm7  Eb7 
@@ -8,7 +11,7 @@ Love makes a woman
    Ab       Fm7      Bbm7  Eb7  Ab
 So give her all your love  tonight
 
-[Verse 1]
+[VERSE 1]
   Ab
 A woman is love and if you're smart
        Db         Bbm          Eb7
@@ -18,7 +21,7 @@ So take my advice, you just treat her nice
 Fm7  Gm7    Ab   Adim  Bbm7  Bbm7/Db  Eb7  Ab
 And  you'll find that  wo -  man      is   love
 
-[Chorus 2]
+[CHORUS 2]
 Ab   Cm     Db    Bbm7
 Love   is a woman
    Ab       Fm7        Bbm7    Eb7 
@@ -28,7 +31,7 @@ Love   is a woman
    Ab       Fm7      Bbm7  Eb7  Ab
 So make her feel that way tonight
 
-[Verse 2]
+[VERSE 2]
   Ab
 A woman is love and if you're smart
        Db         Bbm          Eb7
@@ -38,7 +41,7 @@ So take my advice, you just treat her nice
 Fm7  Gm7    Ab   Adim  Bbm7  Bbm7/Db  Eb7  Ab
 And  you'll find that  wo -  man      in   love
 
-[Bridge]
+[BRIDGE]
 Ab            Gb                   Eb
 1, 2, 3 She's falling in love with me
 Ab          Gb              Eb
@@ -46,7 +49,7 @@ Ab          Gb              Eb
 Ab          Gb               Eb
 7, 8, 9 She makes me feel so fine
 
-[Chorus 3]
+[CHORUS 3]
 Ab   Cm     Db    Bbm7
 Love   is a woman
    Ab        Fm7   Bbm7  Eb7 
@@ -56,7 +59,7 @@ Love   is a woman
    Ab       Fm7      Bbm7  Eb7  Ab
 So give her all your love  tonight
 
-[Outro]
+[OUTRO]
           Ab
 Love is a woman
           Ab

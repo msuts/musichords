@@ -1,4 +1,7 @@
-[Verse 1]
+I WANNA PICK YOU UP by THE BEACH BOYS
+from the album THE BEACH BOYS LOVE YOU (1977)
+
+[VERSE 1]
 F                      Fmaj7
   I'd love to pick you up
         Fm7/Bb         Bb      Eb  Bb/D  Cm
@@ -8,7 +11,7 @@ Cribs and cradles and bottles and   toys
 Fm                    Gm     C7
 Part of the joys they bring
 
-[Verse 2]
+[VERSE 2]
 F                     Fmaj7
   I want to wash your face
     Fm7/Bb                  Bb          Eb    Bb/D  Cm
@@ -18,13 +21,13 @@ Walk you around and wrestle with   you
 Fm                         Gm   C7
 Then I'm going to make you sing
 
-[Pre-Chorus 1]
+[PRECHORUS 1]
 Am       Dm7             Am7      Dm7
   In the morning I could wake you up
 Bm         E7               Bm     E7
   Feed you breakfast from a little cup
 
-[Chorus 1]
+[CHORUS 1]
 F   Dm      Gm       C7
   I want to pick you up
 F          Dm                 Gm       C7
@@ -32,7 +35,7 @@ F          Dm                 Gm       C7
 Ab  Fm      Bbm      Eb          Ab    Ab/Bb  Gm7/C  C7
   I want to hold you close for a while
 
-[Verse 3]
+[VERSE 3]
 F                       Fmaj7
   I want to tickle your feet
 Fm7/Bb                  Eb  Bb/D  Cm
@@ -42,13 +45,13 @@ Wash your body and shampoo your   hair
    Fm                        Gm   C7
 Be careful not to sting your eyes
 
-[Pre-Chorus 2]
+[PRECHORUS 2]
 Am          Dm7                Am7     Dm7
   When it's night I'll put you in your bed
 Bm         E7                Bm      E7
   And I'll bend and kiss you on your head
 
-[Chorus 2]
+[CHORUS 2]
 F   Dm      Gm       C7
   I want to pick you up
 F          Dm                 Gm       C7
@@ -56,7 +59,7 @@ F          Dm                 Gm       C7
 Ab  Fm      Bbm      Eb          Ab    Ab/Bb  Gm7/C  C7
   I want to hold you close for a while
 
-[Outro]
+[OUTRO]
 F                              Gm7
 Pat pat pat pat pat her on her butt butt
       C7/E  C7/F  C7/G  C7/E  C7/D  C7

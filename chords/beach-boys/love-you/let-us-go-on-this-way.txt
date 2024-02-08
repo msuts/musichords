@@ -1,8 +1,11 @@
-[Intro]
+LET US GO ON THIS WAY by THE BEACH BOYS
+from the album THE BEACH BOYS LOVE YOU (1977)
+
+[INTRO]
 E
    Yeah!
 
-[Verse 1]
+[VERSE 1]
    E                                      E/G#  A  E  D/E  D/G#  D/A
 To get t'you baby I went through the wringer
 E                        D/E           D/G#  D/A   E  D/E  D/G#  D/A
@@ -14,7 +17,7 @@ But sittin' in class you set my soul on fire
 B   D#m    C#m    B   E/G#    A
 God please let us go  on this way
 
-[Verse 2]
+[VERSE 2]
 E                        D/E         D/G#  D/A
 All day long I practiced what to say-ay
    E          D/E      D/G#  D/A
@@ -30,7 +33,7 @@ Gmaj7                      Cmaj7
 B   D#m    C#m    B   E/G#    A
 God please let us go  on this way
 
-[Bridge]
+[BRIDGE]
 E               Fdim  B/F#               Em/G
 Seems we have extra - sensory perception
 E/G#                              A  C#m/G#  A7/G  F#7  B
@@ -40,7 +43,7 @@ Now we can fly      high in the sky
 Em/G  E/G#                A  C#m/G  A7/G  F#7  B
 We'll live forever, we'll ne-eh -   ev -  er   die
 
-[Outro]
+[OUTRO]
 E                    D/E         D/G#  D/A
 God please let us go on this way-ay
  E          D/E           D/G#  D/A

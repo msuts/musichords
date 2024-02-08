@@ -1,4 +1,7 @@
-[Verse 1]
+MY DIANE by THE BEACH BOYS
+from the album MIU ALBUM (1978)
+
+[VERSE 1]
 C#m7                        A6
     Now that I have lost my Diane
            E/B        G#m7     F#m7
@@ -8,7 +11,7 @@ C#m7                       A6
     E/B    G#m7     F#m7  F#m7/B
 Now I just miss her so
 
-[Chorus 1]
+[CHORUS 1]
 E             A       B7           E
 Everything is old and nothing is new
 E          A     B7           E
@@ -18,7 +21,7 @@ Memories haunt me night and day
 F#m7/B
 (Ahhhhhhhhhhh)
 
-[Verse 2]
+[VERSE 2]
 C#m7                       A6
     Do you think of me, my Diane
         E/B    G#m7    F#m7
@@ -28,7 +31,7 @@ C#m7                            A6
     E/B      G#m7    F#m7  F#m7/B
 And now that you are free
 
-[Chorus 2]
+[CHORUS 2]
 E             A         B7           E
 Everything is wrong and nothing is right
 E            A        B7         E
@@ -38,13 +41,13 @@ Shadows hanging over my head
 F#m7/B
 (Ahhhhhhhhhhh)
 
-[Bridge]
+[BRIDGE]
 E  C#m7     Em   A6
 I  love you Di - ane
 E  C#m7     Em   A6
 I  miss you Di - ane
 
-[Outro]
+[OUTRO]
 E             A         B7           E
 Everything is wrong and nothing is right
 E            A        B7         E
