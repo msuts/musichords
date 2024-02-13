@@ -1,16 +1,18 @@
-Breakup at the Food Court
+BREAKUP AT THE FOOD COURT by BEN FOLDS FIVE
+Released on the compilation THE BEST IMITATION OF MYSELF: A RETROSPECTIVE (2011)
 
-Intro:
+[INTRO]
 Gb6      
 Fm7add4
-Ebm7add4  /Eb  /Ab  /A
+Ebm7add4  Ebm7add4/Ab  Ebm7add4/A
 Bbm7add4
 
 Gb6      
 Fm7add4
-Ebm7add4  /Eb  /Ab  /A
+Ebm7add4  Ebm7add4/Ab  Ebm7add4/A
 Bbm7add4
 
+[VERSE 1]
 Gb6                      Fm7add4
      I tried to do it on Saturday
 Ebm7add4                /Ab  /A  Bbm7add4 
@@ -20,7 +22,7 @@ I've been sitting here staring at my fries
 Ebm7add4                                  Bbm7add4
          I didn't have shit to say for an hour and a half
 
-CHORUS:
+[CHORUS]
          Gb6
 Breaking up, breaking up
          Fm7add4  Ebm7add4  Bbm7add4
@@ -33,12 +35,13 @@ Breaking uuuuuu - up
 Bbm7add4      
 Yeah
 
-Synth solo:
+[SYNTH SOLO]
 Gb6      
 Fm7add4
 Ebm7add4
 Bbm7add4
 
+[VERSE 2]
 Gb6                  Fm7add4
     Old Abe Lincoln, good old man
 Ebm7add4                      Bbm7add4
@@ -50,7 +53,7 @@ Stick in his hand
      Bbm7add4
 said "Hey, I'm Superman"
 
-CHORUS:
+[CHORUS]
          Gb6
 Breaking up, breaking up
          Fm7add4  Ebm7add4  Bbm7add4
@@ -63,9 +66,8 @@ Breaking uuuuuu - up
 Bbm7add4      
 Yeah
 
-Synth solo:
+[OUTRO]
 Gb6      
 Fm7add4
 Ebm7add4
 Bbm7add4
-Repeat to fadeout

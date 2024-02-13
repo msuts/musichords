@@ -1,13 +1,13 @@
-Yes Man by Ben Folds
-From the album So There
+YES MAN by BEN FOLDS
+From the album SO THERE (2015)
 
-INTRO:
+[INTRO]
 G
 A/G
 C/G
 Gmaj7
 
-VERSE:
+[VERSE 1]
 G
 Why didn't you tell me that I got fat?
         A/G
@@ -25,7 +25,7 @@ Do I come across so weak?
              Gmaj7
 I guess, sometimes I am
 
-CHORUS:
+[CHORUS 1]
                A5    A5/B
 Now, you're so gone   
 C   C/D      
@@ -35,9 +35,13 @@ I don't need a Yes Man and a song
 A5/B  G
 Oh,   why didn't you tell me about it?
 
-REPEAT INTRO
+[INSTRUMENTAL BREAK]
+G
+A/G
+C/G
+Gmaj7
 
-VERSE:
+[VERSE 2]
 G
 I watched a patch of morning light
       A/G
@@ -56,7 +60,7 @@ Every picture that I click and drag
      Gmaj7
 It's obvious
 
-CHORUS:
+[CHORUS 2]
               A5    A5/B
 Now, we're so gone
 C   C/D      
@@ -66,7 +70,7 @@ I don't need a Yes Man and a song
 A5/B  G
 Oh,   why didn't you tell me about it?
 
-BRIDGE:
+[BRIDGE]
   A/G       C/G
 I know, sometimes
     Gmaj7
@@ -78,7 +82,7 @@ I do that sometimes
        Bb        F/A
 When I know it's gonna hurt
 
-VERSE:
+[VERSE 3]
 G
 Why didn't you tell me that I got fat?
         A/G
@@ -88,13 +92,15 @@ Now I'm crying all the way from the photomat
                G
 Than a Chinese phone book has
 
-CHORUS:
+[CHORUS 3]
                A5    A5/B
 Now, you're so gone   
 C   C/D      
 Oh
 Eb             G/D           G
 I don't need a Yes Man and a song
+
+[OUTRO]
     A/G                              C/G   G
 Oh, why didn't you tell me about it?
     A/G                              C/G  Eb  Gadd9

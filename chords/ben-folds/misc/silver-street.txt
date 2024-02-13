@@ -1,10 +1,10 @@
-Silver Street by Ben Folds
-Live version from the album "Ben Folds Live" (2002)
+SILVER STREET by BEN FOLDS
+Live version from the album BEN FOLDS LIVE (2002)
 
-Intro A:
+[INTRO 1]
 Dbmaj13  Db  Ebmaj7  Ebsus4  Gb6maj9  Gbmaj9
 
-Intro B:
+[INTRO 2]
 F    Dm7        Am7
 Dm7  Dm/C  F/C  G/B  Gdim/Bb C/A G
 Gm7  Am7   Faug/D  Cdim/D  Gm7  Eb  F  Bb/C
@@ -12,7 +12,7 @@ Gm7  Am7   Faug/D  Cdim/D  Gm7  Eb  F  Bb/C
 Intro Solo (individual notes for piano players):
 G C D C D Eb A Eb D C Bb Eb F G C G Ab-C Bb G Ab-C Bb-D F-C Bb F# G Eb Eb(octave down) F Bb Ab A C A-D F-chord F-bass Bb/C
 
-VERSE 1:
+[VERSE 1]
         F          Dm          Am7
 Now the houses are ghosts over Silver Street
 Dm              Dm/C            G/B     Gm/Bb  Am7  G
@@ -24,7 +24,7 @@ Bums praising the lord
 Gm7            Eb            F
 You're playing tapes for the town
 
-PRECHORUS:
+[PRECHORUS 1]
         Am7
 Now the neighborhood's mixed
                  A7-aug
@@ -32,7 +32,7 @@ And your college friends
 Dm          F/C           G/B
 Are getting younger every year
 
-REFRAIN:
+[CHORUS 1]
     Bbmaj7     Am7(no E)
 The wind don't blow
         Ab(no E)    Gm7(no D)
@@ -40,7 +40,7 @@ And the grass don't grow
        Edim/F#(no B) Dmaj13 Db      Ebmaj7  Ebsus4  Gb6maj9  Gbmaj9  F
 You're never leaving Silver Street
 
-VERSE 2:
+[VERSE 2]
                 F          Dm          Am7
 You bought some brown wire frames at a junk shop
 Dm            Dm/C         G/B     Gm/Bb  Am7  G
@@ -52,7 +52,7 @@ And the styles are moving on
 Gm7        Eb          F
 Hard for a man to stay cool
 
-PRECHORUS:
+[PRECHORUS 2]
         Am7
 Now the seasons change
                     A7-aug
@@ -60,7 +60,7 @@ And the storefronts change
 Dm         F/C            G/B
 Everything else stays the same
 
-REFRAIN:
+[CHORUS 2]
     Bbmaj7     Am7(no E)
 The wind don't blow
         Ab(no E)    Gm7(no D)
@@ -68,7 +68,7 @@ And the grass don't grow
        Edim/F#(no B) F             Bb/F  C/F  
 You're never leaving Silver Street
 
-Bridge:
+[BRIDGE]
         B
 But now don't get me wrong
         Bbm
@@ -82,7 +82,7 @@ But now we spent the day so completely uninspired
        Gm   Gm/A  Gm/Bb         Gm/B  C      Caug-roll
 Asking why, oh    why,   should I be  tired?
 
-VERSE 3:
+[VERSE 3]
                     F        Dm    Am7
 They're filling the potholes in on Silver Street
 Dm         Dm/C            G/B     Gm/Bb  Am7  G
@@ -94,7 +94,7 @@ And you're out on your brown lawn
 Gm7        Eb          F
 Raking the dirt with a broom
 
-PRECHORUS:
+[PRECHORUS 3]
         Am7
 Now the seasons change
                     A7-aug
@@ -102,7 +102,7 @@ And the storefronts change
 Dm         F/C            G/B
 Everything else stays the same
 
-REFRAIN:
+[CHORUS 3]
     Bbmaj7     Am7(no E)
 The wind don't blow
         Ab(no E)    Gm7(no D)
@@ -110,7 +110,7 @@ And the grass don't grow
        Edim/F#(no B) Dmaj13 Db      Ebmaj7  Ebsus4  Gb6maj9  Gbmaj9  F
 You're never leaving Silver Street
 
-Ending:
+[OUTRO]
 Dbmaj13  Db    Ebmaj7  Ebsus4
 Never leaving, never leaving
 Dbmaj13  Db    Ebmaj7  Ebsus4

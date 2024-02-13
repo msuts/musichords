@@ -1,6 +1,7 @@
-"Phone in a Pool" by Ben Folds
+PHONE IN A POOL by BEN FOLDS
+from the album SO THERE (2015)
 
-VERSE:
+[VERSE 1]
 Dm         G
    Take it easy
 C       F
@@ -27,7 +28,7 @@ Seems what's been good for the music
 Hasn't always been so good for the life
 C  F
 
-CHORUS:
+[CHORUS 1]
                Dm         G
 I've thrown my phone in a pool
    C     F
@@ -43,7 +44,7 @@ In a puddle  in   a couple of weeks
         C  C/D  C/E  F
 Oh yeah
 
-VERSE:
+[VERSE 2]
 Dm    G          C           F
     I can't tell what you're saying
          Dm  Dm/E  Dm/F  G
@@ -65,8 +66,7 @@ C  F
 Dm           G          C  C/D  C/E  F
     Ain't it always the quiet        type
 
-
-CHORUS:
+[CHORUS 2]
                Dm         G
 I've thrown my phone in a pool
    C     F
@@ -84,10 +84,9 @@ I won't, I won't, I won't blame
       Dm
 New Orleans
 
-BRIDGE:
+[BRIDGE]
 C  G  Dm
 C  G  Dm
-
                  C              G      Dm     C  G  Dm
 Can't you people function for a little while
                     C            G          Dm     C  G
@@ -96,7 +95,7 @@ Without me bouncing off the satellite for a night
 C  F
 C  F
 
-VERSE:
+[VERSE 3]
 Dm          G
    Drink it fast or
 C        F
@@ -122,7 +121,7 @@ But until that time
           C      F
 Here's my auto-reply
 
-CHORUS:
+[CHORUS 3]
                Dm         G
 I've thrown my phone in a pool
    C     F
@@ -137,7 +136,7 @@ And I'll be back on your sofa
 In a puddle  in   a couple of weeks
 C  F
 
-OUTRO:
+[OUTRO]
               Dm    G  C  F
 That's what I know
               Dm    G  C  F

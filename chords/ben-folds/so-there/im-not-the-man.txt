@@ -1,82 +1,82 @@
-I'm Not the Man by Ben Folds
-From the album So There
+I'M NOT THE MAN by BEN FOLDS
+From the album SO THERE (2015)
 
-VERSE:
-               D                           
+[VERSE 1]
+               D              Bm
 What will they write about me
-              A               G      D/G      A     
+F#m           A               G      D/G        A
 What will the version be when all is said and done
-          D        Bm                F#m
+            D      Bm                F#m
 Will they remember all of the places seen
     A                 G      D/G       A
 The poem's lost or am I just wandering on
 G        D         A
 I'm just wandering on
-
-CHORUS:
-               G          Em
+ 
+[CHORUS 1]
+               G           Em
 There could be fewer days ahead than gone
-Bm           A 
-And all I've been 
-    G
-I'm long since on my way
-            Em                Bm      A
+    Bm
+And all I've spent
+    A               G
+Are long since on my way
+            Em           Bm        A
 To learning nothing comes for free
-                Em   D
+                Em  D
 But I'm not the man
             G    A
 I'm not the man
-          G  Em  Bm  A
+          G   Em  Bm  A
 I used to be
-
-VERSE:
+ 
+[VERSE 1]
       D                    Bm
 So it all comes out in the wash
                F#m
-What would you see? 
+What would you see?
 A                      G           D               A
 Tattered pages and the ink stained pockets of your jeans
-                Bm                     A
+                Bm          Gmaj7          A
 So I've come to pay my respects at the wake
      F#m                   G          D      A
 I've buried it all and I'm dancing on my own grave
          G          D      A
 Yeah I'm dancing on my own grave
-
-CHORUS:
+ 
+[CHORUS 2]
                G          Em
 There could be fewer days ahead than gone
-Bm           A 
-And all I've been 
-    G
-I'm long since on my way
-            Em                Bm      A
+Bm
+And all I've spent
+    A            G
+Are long since on my way
+            Em                Bm    A
 To learning nothing comes for free
-                Em   D
+                Em  D
 But I'm not the man
             G    A
 I'm not the man
           D   A/C#  Bm  A
 I used to be
-
-BRIDGE:
+ 
+[BRIDGE]
 G     A          Bm    A
 Don't leave me behind
 G     A          Bm    A
 Don't leave me behind
                 G
 Like I left you behind
-
-CHORUS:
+ 
+[CHORUS 3]
                G          Em
 There could be fewer days ahead than gone
-Bm           A 
-And all I've been 
+Bm           A
+And all I've spent
     G
-I'm long since on my way
-            Em                Bm      A
+Are long since on my way
+            Em                Bm    A
 To learning nothing comes for free
-
+ 
         G              Em
 I had a lot of time to waste
             Bm            A
@@ -91,43 +91,45 @@ I'm not the man
 I'm not the man
               G   Em  Bm  A
 But I used to be
-
+ 
+[OUTRO 1]
           G              Em
 I used to be my father's son
           Bm        A
 I used to be number one
-
+ 
           G            Em
 I used to be paper and pencil
           Bm         A
 I used to be endless potential
-
+ 
           G             Em
 I used to be heaven and earth
           Bm        A
 I used to be my net worth
-
+ 
           G                     Em
 I used to be one public drunken moment
           Bm               A
 I used to be high paid and low rent
-
+ 
           G             Em
 I used to be a man on a mission
               Bm
 My best chart position
                A
 The man in the mirror
-
+ 
                    G
 Your brother, your killer
              Em
 A new day, a new town
-		     Bm
+                     Bm
 Your racehorse, your cash cow
                A
 Till I let you all down
-
+ 
+[OUTRO 2]
               G   D/F#
 Now I want to be
           G   A

@@ -1,6 +1,7 @@
 Underground by Ben Folds Five
 
-Single note: Ab
+[SLOW INTRO]
+Abm
 
 I was never cool in school
              Baug
@@ -17,12 +18,14 @@ In circles, cliques, and social coteries - that's me
 Hand me my nose ring (Can   we     be    ha - ppy?)
                       B/E  C#m-no5/E  B/E        E
 Show me the mosh pit (Can  we         be    ha - ppy?)
-B  Bsus4/C#  B5/D#  B6/E  B5maj7/D#  Bsus4/C#  B     A
-We can       be     ha  - ppy        un -      der - ground
+B  C#m7  B/D#  E  B/D#  C#m7  B     A
+We can   be    ha-ppy   un -  der - ground
 
+[FAST INTRO]
 B  Baug  B6  Baug
 B  Baug  B6  Baug
 
+[VERSE 1]
 B             Baug                 B6
 Who's got the looks, who's got the brains
           B7         B/F#
@@ -42,44 +45,61 @@ There was this girl who passed me by
 She gave a smile but I was shy
          G#m7     F#m7
 I looked down, so down
-E                       Em7  Em7/B  A2-7    B
-Don't look there no no, go   go     under - ground
-    Daug7         E           C#m7/F#
+E                       Em7   Em7/A  A7    B
+Don't look there no no, go go un -   der - ground
+    D             E           C#m7/F#
 But now there's a place to go
 
-Bmaj7                 
+[PRE-CHORUS 1]
+B                
 It's the morning now
 B7/A
 It's the evening
-     B/G#
+     G#m7
 It's everything
 G7         F#7
 I click my heels and I'm there
 
+[CHORUS 1]
 B            C#7          E7
 Underground, underground, ooh
-Everything's happy underground
-B                       C#7
+                             B       
+Everything's heavy underground
+                      C#7
 You been kicked around
-                   E7
+                     E7
 Did life bring you down here
-B    Bsus4/C#  B5/D#    B6/E  B5maj7/D#  Bsus4/C#  B     A
-Ev - ery       thing's  hea - vy         un -      der - ground
+B     C#m7  B/D#     E     B/D#  C#m7  B     A
+Eve - ry    thing's  hea - vy    un -  der - ground
 
 Single notes: F#  A#  C#  D#  F#
 
+[VERSE 2]
+                   B        Baug                 
 We'll be decked in all black
+             B6           B7
 Slamming the pit fantastic
-Officer Friendly's little boy's got a mohawk
+    B/F#  E7                D#7         G#m7    
+Officer   Friendly's little boy's got a mohawk
+    F#m7                  E
 He knows just where we're coming from
-It's industrial, work it underground
+                 Em7     Em7/A  A7    B
+It's industrial, work it un -   der - ground
+        D         E       C#m7/F#
 Get down, get down, get down
 
-Underground, underground
-Everything's happy underground
-You been kicked around
-Did life bring you down here
+[CHORUS 2]
+B            C#7          E7
+Underground, underground, ooh
+                             B       
 Everything's heavy underground
+                      C#7
+You been kicked around
+                     E7
+Did life bring you down here
+B     C#m7  B/D#     E     B/D#  C#m7  B     A
+Eve - ry    thing's  hea - vy    un -  der - ground
+We can be happy, we can be happy, we can be happy underground
 
 [OUTRO]
 Left Hand: F-A-B-E (Fmaj7b5)

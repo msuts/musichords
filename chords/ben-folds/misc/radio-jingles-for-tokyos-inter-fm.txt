@@ -1,7 +1,7 @@
-"Radio Jingles for Tokyo's Inter-FM" by Ben Folds
-Two short songs he composed for a popular Tokyo radio station. Not sure if they ever actually aired but they're featured on the Songs for Goldfish album.
+RADIO JINGLES FOR TOKYO'S INTER-FM by BEN FOLDS
+From the compilation SONGS FOR GOLDFISH (2005)
 
-Jingle 1:
+[JINGLE 1]
                  Am
 Don't touch that dial
          F   F/Ab   F/A  F/C  F/D  F
@@ -16,10 +16,10 @@ C       F      C
 Tokyo's Inter-FM
 
 
-Jingle 2:
+[JINGLE 2]
          E                                 F#m
 When the worries of the world have got you feeling down
-           A                              E            Esus4   E  E/D#
+           A                              E            Esus4   E  B/D#
 And you're looking for some music that is pretty good
 C#m     G#m        A  A/B  A/C#  E   
 Tokyo's number one mu -    sic   station

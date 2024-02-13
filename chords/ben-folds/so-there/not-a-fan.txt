@@ -1,7 +1,7 @@
-Not a Fan by Ben Folds
-From the album "So There"
+NOT A FAN by BEN FOLDS
+From the album SO THERE (2015)
 
-INTRO:
+[INTRO]
 F     Bb/F  Bbm/F  Dm/F
 Gm    C/G   Gdim7  F/A
 G7/B        G5-6
@@ -17,7 +17,7 @@ Chords: Dm/F - -   | Gm  - - | Gm  - - | C7/G - - | C7/G - - | A7/G  - - | A7/G 
 Melody: -   - - | D    - - | A    - G | D C E F Bb A D C C# G |
 Chords: F/C - - | G7/B - - | G7/B - - | C7/Bb                 |
 
-
+[VERSE 1]
 F         Bb/F  Bbm/F
 I'm not a fan
            Dm/F              Gm
@@ -29,11 +29,10 @@ A7/G                       Fmaj7/A
      G7/B                   C            F
 It's part of what makes you beautiful to me
 
-
-REPEAT INTRO:
+[INSTRUMENTAL BREAK]
 F  Bb/F  F  Bb/F
 
-
+[VERSE 2]
 F         Bb/F  C/F
 I'm not a fan
                   Dm
@@ -47,8 +46,7 @@ I'm starting to wonder what you see in me
     G7/B              C             F
 No, I'm not a fan but maybe I could learn to be
 
-
-BRIDGE:
+[BRIDGE]
 Bbm                                   F
 Oh, there's always something from the start
 Bbm                                               F
@@ -56,7 +54,7 @@ You try to tell yourself it's only small but it's not
     F9/Eb
 And it's the very thing that later on will tear it all apart
 
-
+[VERSE 3]
 F         Bb/F  Bbm/F
 I'm not a fan
              Dm            Gm
@@ -80,6 +78,6 @@ Fangirl
   C   E  F   Bb  A  D    C    Bbdim  G    F
 I may or may not be here when you    re - turn
 
-OUTRO:
+[OUTRO]
 F  Bbm/F                           F
-   [so fuck you ... and your friends]
+   (so fuck you ... and your friends)

@@ -1,22 +1,24 @@
-"Bad Idea" by Ben Folds Five
-Only one officially released version of this - a demo featured on Naked Baby Photos and The Best Imitation of Myself: A Retrospective.
+BAD IDEA by BEN FOLDS FIVE
+From the soundtrack to the film THE TRUTH ABOUT CATS & DOGS (1996)
 
-INTRO:
+[INTRO]
 Piano players - Slam the keys a few times over Ab-C-F-Gb-Ab-Bb
 Guitar players - The closest possible chord I can notate is F#2b5/Ab.
 
 G  Bb  Eb  G
 G  Bb  Eb  G
 
+[VERSE 1]
 G                  Bb
 Pull over the car, pull over the car
-Eb                 G
-I think I see some sweet squirrel rim
+Eb            G
+I think I see a five fister
 G                  Bb
 Pull over the car, pull over the car
-Eb                  G
-I think I feel like gettin down on ya
+   Eb                    G
+My dad wants to break up with your sister
 
+[CHORUS 1]
 G              Bb
 I don't wanna, I don't wanna
 Eb             Ab             Dsus4
@@ -26,9 +28,11 @@ You make me feel, make me feel
 Eb           Ab        Dsus4
 Make me feel retarded
 
+[INSTRUMENTAL BREAK]
 G  Bb  Eb  G
 G  Bb  Eb  G
 
+[VERSE 2]
 G                       Bb
 I can't leave it alone, jerk off on the phone
 Eb                    G
@@ -38,6 +42,7 @@ Pretty bad idea, pretty bad idea
 Eb                 G
 Really, really bad idea
 
+[CHORUS 2]
 G              Bb
 I don't wanna, I don't wanna
 Eb             Ab             Dsus4
@@ -49,10 +54,13 @@ Make me feel retarded
   Dsus4  A/C#  C       C    C/B Bb   (slam)/A
 Retard - ed,       you make me  feel so
 
-(Repeat intro)
+[REPEAT INTRO CHORD SLAM]
+
+[INSTRUMENTAL BREAK]
 G  Bb  Eb  G
 G  Bb  Eb  G
 
+[BRIDGE]
 G                   Bb
 Na, na na na, na na na, na na na na
 Eb                  G
@@ -62,6 +70,7 @@ Na, na na na, na na na, na na na na
 Eb                  G
 Na, na na na, na na na, na na na na
 
+[VERSE 3]
 G
 When I stood you up
   Bb
@@ -69,6 +78,7 @@ I thought that you'd give up
 Eb                   G
 Now I realize you're just like a dog
 
+[CHORUS 3]
 G              Bb
 I don't wanna, I don't wanna
 Eb             Ab             Dsus4
@@ -79,5 +89,3 @@ Eb           Ab        Dsus4
 Make me feel retarded
   Dsus4  A/C#  C    C      C/B  Bb  (slam)/A
 Retard - ed,      Retard - ed,
-
-(Repeat intro)

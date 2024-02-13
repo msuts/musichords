@@ -1,10 +1,11 @@
-"Annie Waits" by Ben Folds
-Featured on the album "Rockin' the Suburbs" (2001)
+ANNIE WAITS by BEN FOLDS
+From the album ROCKIN' THE SUBURBS (2001)
 
+[INTRO]
 C  G  F  C
 C  G  F  C
 
-VERSE:
+[VERSE 1]
     C
 And so
 G  F  C                         C     G  F  C
@@ -26,7 +27,7 @@ Time
 C    G  F  C
 Oh
 
-VERSE:
+[VERSE 2]
     C      G   F   C                         C     G  F  C
 The clock    never stops, never stops, never waits
           G/B  Am  G
@@ -42,7 +43,7 @@ Maybe he's been seriously hurt
 G             C      G F C
 Would that be worse?
 
-PRECHORUS:
+[PRECHORUS 1]
 Gm         Dm
 Headlights crest the hill
 F                C             Gm    Dm  F  C  Gm
@@ -52,7 +53,7 @@ Annie sees her dreams:
 F             C              Gm    Bb6
 Friday bingo, pigeons in the park
 
-CHORUS:
+[CHORUS 1]
 C     G     F       C         G  F  C
 Annie waits for the last time
 C        G    F      C        
@@ -62,7 +63,7 @@ Annie  says "You see this is why I'd rather be alone."
 
 F  C  G
 
-VERSE:
+[VERSE 2]
     C
 And so
 G  F  C                         C     G F C
@@ -78,9 +79,9 @@ It's the same
                   Am    D
 Was it always the same?
       F     G          C
-Annie waits     as the last...
+Annie waits     as the last
 
-PRECHORUS:
+[PRECHORUS 2]
 Gm         Dm
 Headlights crest the hill
 F               C           Gm    Dm  F  C
@@ -90,7 +91,7 @@ Annie, I could be
 F                   C                 Gm   Bb6
 If we're both still lonely when we're old
 
-CHORUS:
+[CHORUS 2]
 C     G     F       C         G  F  C
 Annie waits for the last time
 C        G    F      C         G  F  C      

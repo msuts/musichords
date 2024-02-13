@@ -1,11 +1,11 @@
-So There by Ben Folds
-From the album "So There"
+SO THERE by BEN FOLDS
+From the album SO THERE (2015)
 
-INTRO:
+[INTRO]
 F  Fsus4
 F  Fsus4
 
-VERSE:
+[VERSE 1]
 F                Fsus4
 A mattress and a stereo
             Fmaj7
@@ -15,7 +15,7 @@ And the note composed with thumbs and phone
             Fsus4  F
 On unpacked box -  es
 
-CHORUS:
+[CHORUS 1]
 Am           Bb
 It's so well written
                F/C     C   C/Bb
@@ -29,7 +29,7 @@ Oh, so there
 
 F  Fsus4
 
-VERSE:
+[VERSE 2]
 F                         Fsus4
 Through shiny streets and dirty snow
               Fmaj7
@@ -39,7 +39,7 @@ Oh, Brooklyn it's my second sleep
                 F
 I damn well did this
 
-CHORUS:
+[CHORUS 2]
 Am            Bb
 The world got big again
                  F/C     C   C/Bb
@@ -51,7 +51,7 @@ There is nothing to forget
 C      F      Fsus4
 Oh, so there
 
-BRIDGE/INSTRUMENTAL:
+[BRIDGE/INSTRUMENTAL]
 F7
 Dm/F
 Bbm/F
@@ -73,7 +73,7 @@ Bb
 
 F/C  C
 
-CHORUS:
+[CHORUS 3]
 Am            Bb
 You taught me nothing
           F/C    C
@@ -85,5 +85,5 @@ When there's nothing to forget
 C      F      Fsus4
 Oh, so there
 
-OUTRO:
+[OUTRO]
 F
