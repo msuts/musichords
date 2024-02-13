@@ -1,10 +1,14 @@
-Intro
+CIGARETTE by BEN FOLDS FIVE
+from the album WHATEVER AND EVER AMEN (1997)
+
+[INTRO]
 Melody: D Eb Gb D C | C D F C Bb | Bb C# E Bb A G | C#-G   D-F |
 Chords: Cdim/Bb     | Bb         | Bbdim          | Bbdim  Bb  |
 
 Melody: Ebmaj7 Eb Eb-F-G | F-G F-A | E-G E-A E-Bb | Eb-G Eb-A Bb | 
 Chords: Ebmaj7/Bb        | Bbmaj7  | Bbdim        | Eb/Bb        |
 
+[SONG]
 Cdim/Bb        Bb
 Fred Jones was worn down
      Bbdim            Bb
@@ -24,6 +28,6 @@ With  a
 Cdim/Bb
 cigarette.
 
-Outro:
+[OUTRO]
 Melody: D Eb Gb D C | C D F C Bb | Bb C# E Bb A G | C#-G   D-F |
 Chords: Cdim/Bb     | Bb         | Bbdim          | Bbdim  Bb  |

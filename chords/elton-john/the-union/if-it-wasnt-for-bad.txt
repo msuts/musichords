@@ -1,14 +1,10 @@
-If It Wasn't For Bad
-Elton John and Leon Russell
+IF IT WASN'T FOR BAD by ELTON JOHN and LEON RUSSELL
+from the album THE UNION (2010)
 
--------------------------------------------------------------------------
-
-Listen to recording for rhythms during Intro and Instrumental Break.
-
-INTRO:
+[INTRO]
 Edim A Dm Dm/C Bb Bb/A Gm A Dm
 
-VERSE:
+[VERSE 1]
   Bb            C             Dm
 I knew from the first night I met you
 Bb             C            Dm
@@ -17,7 +13,6 @@ Bb             C        Dm
 Looked like an innocent stranger
     Gm                        A
 But something was just out of sight
-
 Bb          C                   Dm
 How could I know that you would use me
 Bb            C            Dm
@@ -27,7 +22,7 @@ I couldn't know you'd abuse me
     Gm                     A
 And leave me here hurt and alone
 
-CHORUS:
+[CHORUS 1]
       Gm         A          Dm
 If it wasn't for you I'd be happy
       Edim       A             Dm
@@ -37,18 +32,25 @@ I know that you could be just like you should
       Bb/F       Gm           Dm
 If it wasn't for bad you'd be good
 
-VERSE:
-I only saw what I wanted to see
+[VERSE 2]
+Bb        C         Dm
+  I only saw what I wanted to see
+Bb         C           Dm
 You were a dream in my mind
-I'll never know how you never could be
+Bb            C            Dm
+   I'll never know how you never could be
+   Gm                   A
 It didn't take long for me to find
-
+  Bb              C            Dm
 I guess that it's my fault for seeing
+Bb          C         Dm
 Only what I wanted to see
+Bb         C             Dm
 I couldn't know you were being
+  Gm                     A
 A player just acting for me
 
-CHORUS:
+[CHORUS 2]
       Bb         C          Dm    
 If it wasn't for you I'd be happy
       Bb         C             Dm
@@ -58,25 +60,24 @@ I know you could be just like you should
       Bb         A            Dm
 If it wasn't for bad you'd be good
 
-INSTRUMENTAL BREAK:
-Gm C F Bb 
+[INSTRUMENTAL BREAK]
+Gm    C     F   Bb 
+Gm    Edim  A   Dm
+Gm    C     F   Bb
+Edim  A     Dm
+Gm    Dm    Gm
 
-Gm Edim A Dm
-
-Gm C F Bb
-
-Edim A Dm
-
-Gm Dm Gm
-
-
-VERSE:
+[VERSE 3]
+  Bb            C             Dm
 I knew from the first night I met you
+Bb             C            Dm
 Something just wasn't quite right
+Bb             C        Dm
 Looked like an innocent stranger
+    Gm                        A
 But something was just out of sight
 
-CHORUS:
+[CHORUS 3]
       Bb         C          Dm
 If it wasn't for you I'd be happy
       Bb         C             Dm
@@ -86,10 +87,6 @@ I know you could be just like you should
       Bb         A            Dm
 If it wasn't for bad you'd be good
 
-OUTRO:
+[OUTRO]
       Bb         A            Dm6     
 If it wasn't for bad you'd be good
-
--------------------------------------------------------------------------
-
-Chords by Mike Sutter, 2012

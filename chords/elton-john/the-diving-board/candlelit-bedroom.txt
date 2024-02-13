@@ -1,9 +1,12 @@
-INTRO:
+CANDLELIT BEDROOM by ELTON JOHN
+released as a bonus track on THE DIVING BOARD (2013)
+
+[INTRO]
 C    A7/C#  Dm9  Fm/Ab
 C/G  G      F/C  C
 C/G
 
-VERSE:
+[VERSE 1]
 C
 The sound of one heart breaking
 F
@@ -15,6 +18,7 @@ If I could ever catch you a little bit of that
     C/G                    G                C        G
 I'd wrap it up and bury it in the deep dark ground
 
+[VERSE 2]
 C
 For the lost soul on the ledge 
      F
@@ -26,7 +30,7 @@ If we could only bottle a little bit of rain
       C/G                  G              C        G
 Wrung out from the history in its ancient leaves
 
-CHORUS:
+[CHORUS 1]
 C                C/E       F
 All we need is a candlelit bedroom
         G           G/A   G/B      C      G/B
@@ -36,7 +40,7 @@ Every waking moment you   believe that
 C/G              G             F/C    C
 Love will always lead you to a better place
 
-VERSE:
+[VERSE 3]
 C                               F
 The never ending stories of the victor and the spoils
     G                             C        G/B
@@ -46,7 +50,7 @@ If I could ever wrap up a little piece of this
     C/G                G                  C     G
 I'd strike a match and watch the contents burn
 
-CHORUS:
+[CHORUS 2]
 C                C/E       F
 All we need is a candlelit bedroom
         G           G/A   G/B      C      G/B
@@ -56,13 +60,13 @@ Every waking moment you   believe that
 C/G              G             F/C    C       C/E
 Love will always lead you to a better place
 
-GUITAR SOLO:
+[GUITAR SOLO]
 F   C/E  Dm  C/E
 F   C/E  G
 F   C/E  Dm  C
 Bb  F/A  G   G/B
 
-CHORUS:
+[CHORUS 3]
 C                C/E       F
 All we need is a candlelit bedroom
         G           G/A   G/B      C      G/B
@@ -72,7 +76,7 @@ Every waking moment you   believe that
 C/G              G             F/C    C
 Love will always lead you to a better place
 
-OUTRO:
+[OUTRO 1]
 C                C/E       C/G       F
 Love will always lead to a candlelit bedroom
 G           G/B     G/D  C      G/B

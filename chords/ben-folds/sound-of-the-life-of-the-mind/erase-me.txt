@@ -1,7 +1,8 @@
-Erase Me by Ben Folds Five
+ERASE ME by BEN FOLDS FIVE
+from the album THE SOUND OF THE LIFE OF THE MIND (2012)
 
-Intro:
-[pound]
+[INTRO]
+(left hand pound)
 Gm   Gm/A   Bbm
 F/A  F/G    Am    Am/B
 Cm   Cm/D   Ebm   Ebm/F
@@ -10,7 +11,7 @@ Gm   Gm/Bb  Gm/C  Gm/C#  D7b9
 Top: Eb  Eb-C  D
 Bot: C   F#    F#
 
-Verse:
+[VERSE 1]
 Ebm9         Gm6
 What was our home
 Ebm9      Gm6
@@ -20,7 +21,6 @@ A lean-to at most
              Dm7         Cm         Cm/D
 And when you pulled your half away
 
-Verse:
 Ebm9    Gm6
 Gravity won
 Ebm9           Gm6
@@ -32,7 +32,7 @@ Would it be easier to just delete
     Gm                     D7
 Our pages and the plans we made?
 
-Chorus:
+[CHORUS 1]
  Gm
 Erase me
              Bbm
@@ -51,7 +51,7 @@ Gm  Gm/A  Gm/Bb  Gm/C  D
                           Erase me
 Gm  Gm/A  Gm/Bb  Gm/C  D
 
-Verse:
+[VERSE 2]
 Ebm9             Gm6
 So what will you do
 Ebm9           Gm6
@@ -67,6 +67,7 @@ To think about what you need
          D/C                D7
 'til you reach to find that you've
 
+[CHORUS 2]
  Gm
 Erased me
                  Bbm
@@ -99,25 +100,26 @@ Gm  Gm/A  Gm/Bb  Gm/C  D
 Gm  Gm/A  Gm/Bb  Gm/C  D
                           Erase me
 
-Instrumental:
-Cm2*     Cm2/G    Cm    Cm2/G
-Abm2*    Abm2/Eb  Abm2  Abm2/Eb
-G6       G6/E     G6/E  G6
-Fm2*/Ab  Fm2      Fm2   Fm2/Ab
+[BRIDGE]
+Cm2     Cm2/G    Cm    Cm2/G
+Abm2    Abm2/Eb  Abm2  Abm2/Eb
+G6      G6/E     G6/E  G6
+Fm2/Ab  Fm2      Fm2   Fm2/Ab
 
 E  Ebm
 E  Ebm
 
-Cm2*     Cm2/G    Cm    Cm2/G
-Abm2*    Abm2/Eb  Abm2  Abm2/Eb
-G6       G6/E     G6/E  G6
-Fm2*/Ab  Fm2      Fm2   Fm2/Ab
+Cm2     Cm2/G    Cm    Cm2/G
+Abm2    Abm2/Eb  Abm2  Abm2/Eb
+G6      G6/E     G6/E  G6
+Fm2/Ab  Fm2      Fm2   Fm2/Ab
 
 E  Ebm
 E  Ebm
 E  Ebm
 Eb
 
+[CHORUS 3]
  Gm
 Erase me
            Bbm
@@ -144,7 +146,7 @@ Cm     Cm/D  Ebm        Ebm/F
 Gm                        D
 Guess what I'll wanna be
 
-Instrumental [Outro]:
+[OUTRO]
 Gm   Gm/A  Bbm
 F/A  F/G   Am     Am/B
 Cm   Cm/D  Ebm    Ebm/F
@@ -164,6 +166,3 @@ Gm   Gm/A  Bbm
 F/A  F/G   Am     Am/B
 Cm   Cm/D  Ebm    Ebm/F
 Gm   Gm/C  Gm/C#  D
-
---------------------------------------
-* Add 2, not sus2

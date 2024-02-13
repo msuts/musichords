@@ -1,23 +1,26 @@
-Intro:
+ZANZIBAR by BILLY JOEL
+from the album 52ND STREET (1978)
+
+[INTRO]
 Gaug (G B D# G B D# G)
 B7 Eaug
 Am9 (A E G bassline)
 
+[VERSE 1]
 Am9                    F9 (F C Eb bassline)
     Ali dances and the audience applauds
             Am9                                Bbmaj7 (Bb F G bassline)
 Though he's bathed in sweat he hasn't lost his style
-
 C               F
   Ali don't you go downtown
 C                Am               Bm7b5  E7
-  You gave away another round for free
+  You gave away another round for free,  oh
 
+[VERSE 2]
 Am9                      F9
     Me, I'm just another face at Zanzibar
         Am9                             Bbmaj7
 But the waitress always serves a secret smile,  whoa
-
 C                      F
   She's waiting out in Shantytown
 C                      F                 Bm7b5  G
@@ -25,6 +28,7 @@ C                      F                 Bm7b5  G
     C
 For me
 
+[CHORUS 1]
 Gaug                    Cm7
 I've got the old man's car,
 Fm9                 Bb
@@ -33,24 +37,27 @@ Ebmaj9            Abmaj7  Gm7  Fm7
 I've got a tab at Zan  -  zi - bar
 F#m7b5  Gm7          Abmaj7     Ab7(no 5)
 To   -  night that's where I'll be
-D7      [repeat intro]
+D7      Gaug  B7 Eaug
    I'll be
 
+[INSTRUMENTAL BREAK 1]
+Am9
+
+[VERSE 3]
 Am9                            F9
     Rose, he knows he's such a credit to the game
         Am9                              Bbmaj7
 But the Yankees grab the headlines every time
-
 C             F
   Melodrama's so much fun
 C                        Am          Bm7b5  E7
   In black and white for everyone to see
 
+[VERSE 4]
 Am9                        F9
     Me, I'm trying just to get to second base
         Am9                           Bbmaj7
 And I'd steal it if she only gave the sign,  whoa
-
 C                       F
    She's gonna give the go ahead
 C                   F            Bm7b5  G
@@ -58,6 +65,7 @@ C                   F            Bm7b5  G
     C
 For me
 
+[CHORUS 2]
 Gaug                    Cm7
 I've got the old man's car,
 Fm9                 Bb
@@ -66,5 +74,5 @@ Ebmaj9            Abmaj7  Gm7  Fm7
 I've got a tab at Zan  -  zi - bar
 F#m7b5  Gm7          Abmaj7     Ab7(no 5)
 To   -  night that's where I'll be
-D7      [repeat intro]
+D7      Gaug
    I'll be

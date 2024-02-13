@@ -1,11 +1,13 @@
 FALLING OF THE RAIN by BILLY JOEL
-Featured on the album COLD SPRING HARBOR (1971; remixed 1983)
+from on the album COLD SPRING HARBOR (1971)
 
-INTRO:
-F  F/E  F/Eb
+[INTRO]
+F
+F/E
+F/Eb
 Bbmaj7  C
 
-VERSE 1:
+[VERSE 1]
 F           G           Eb            Eb/C  Bb
 Once upon a time in the land of misty satin dreams
               C           Gm  F/A  Bb      Bb/C   F
@@ -15,15 +17,19 @@ He painted trees     and fields and animals and streams and he stayed
        Gm     F/A      Bb      Bb/C     F
 And he didn't hear the falling of   the rain
 
-REFRAIN 1:
+[REFRAIN 1]
 F  Caug/E  Cm/Eb  D
    Ahhhhhhhhhhhh  Ah
       Gm     F/A      Bb      Bb/C     F
 No he didn't hear the falling of   the rain
 
-[REPEAT INTRO]
+[INSTRUMENTAL BREAK 1]
+F
+F/E
+F/Eb
+Bbmaj7  C
 
-VERSE 2:
+[VERSE 2]
 F             G             Eb               Eb/C    Bb
 In the forest green lived a girl who put her hair in braids
         C           Gm     F/A  Bb         Bb/C   F
@@ -33,15 +39,16 @@ She was glad when the rain came falling on    her face and she sang
            Gm      F/A      Bb      Bb/C     F
 'Cause she did not mind the falling of   the rain
 
-REFRAIN 2:
+[REFRAIN 2]
 F  Caug/E  Cm/Eb  D
    Ahhhhhhhhhhhh  Ah
       Gm     F/A      Bb      Bb/C     F
 No he didn't hear the falling of   the rain
 
+[INSTRUMENTAL BREAK 2]
 F  Am
 
-CHORUS 1:
+[BRIDGE 1]
                       F                  Am
 Will it always be the same as we recall?
                            F                    Am
@@ -51,9 +58,13 @@ Ah, but I don't want to know and I don't want to see
 F/C           C               F/C           C
 Another rainy day without you lyin' next to me
 
-[REPEAT INTRO]
+[INSTRUMENTAL BREAK 3]
+F
+F/E
+F/Eb
+Bbmaj7  C
 
-VERSE 3:
+[VERSE 3]
 F           G        Eb                Eb/C  Bb         C
 High upon a hill far away from all the dusty crowd is a boy
          Gm   F/A    Bb          Bb/C    F              G
@@ -63,15 +74,16 @@ And his mind is filled with hopeless dreams and he waits
        Gm       F/A     Bb      Bb/C     F
 But he will not see the fallin' of   the rain
 
-REFRAIN 3:
+[REFRAIN 3]
 F  Caug/E  Cm/Eb  D
    Ahhhhhhhhhhhh  Ah
       Gm     F/A      Bb      Bb/C     F
 No he didn't hear the falling of   the rain
 
+[INSTRUMENTAL BREAK 4]
 F  Am
 
-CHORUS 2:
+[BRIDGE 2]
                       F                  Am
 Will it always be the same as we recall?
                            F                    Am
@@ -81,7 +93,7 @@ Ah, but I don't want to know and I don't want to see
 F/C           C               F/C           C
 Another rainy day without you lyin' next to me
 
-VERSE 4:
+[VERSE 4]
 F            G               Eb               Eb/C       Bb
   So now the boy becomes the man who sits and paints all day
          C            Gm     F/A    Bb       Bb/C  F
@@ -89,10 +101,10 @@ But the girl with the braids in her hair has gone away
        G          Eb                      Eb/C  Bb             C
 And it seems that time has brought things to an end; nothing's changed
            Gm    F/A      Bb      Bb/C   F
-'Cause you can't stop the falling of the rain.
+'Cause you can't stop the falling of the rain
 
-REFRAIN 4:
+[REFRAIN 4]
 F  Caug/E  Cm/Eb  D
    Ahhhhhhhhhhhh  Ah
-      Gm     F/A      Bb      Bb/C     F
-No he didn't hear the falling of   the rain
+       Gm    F/A      Bb      Bb/C     F
+No you can't stop the falling of the rain

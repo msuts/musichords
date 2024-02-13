@@ -1,13 +1,13 @@
-Song for the Dumped by Ben Folds Five
-Exact chord transpositions from the recording. Guitars may need to simplify.
+SONG FOR THE DUMPED by BEN FOLDS FIVE
+from the album WHATEVER AND EVER AMEN (1997)
 
-INTRO:
+[INTRO]
 Gm  G  Gm  G  C/G
 Gm  G  Gm  G  C/G
 Gm  G  Gm  G  C/G
 Gm  G  Gm  G  C/G
 
-VERSE 1
+[VERSE 1]
 Gdim  G  Gsus4-7  G7     Gsus4-7
 So       you      want - ed 
    G    Gsus4-7  G7    Gsus4-7
@@ -19,7 +19,7 @@ And have some     space
      G7
 Well fuck you too 
 
-CHORUS
+[CHORUS 1]
 F    F/A  F/Bb  C           C/D
 Give me   my    money back
 Eb   Eb/G  Eb/A  Bb6
@@ -35,9 +35,13 @@ And don't forget
    C       Dm/C    C
 To give me back my black T-shirt
 
-REPEAT INTRO
+[INSTRUMENTAL BREAK 1]
+Gm  G  Gm  G  C/G
+Gm  G  Gm  G  C/G
+Gm  G  Gm  G  C/G
+Gm  G  Gm  G  C/G
 
-VERSE 2
+[VERSE 2]
   Gdim  G  Gsus4-7  G7    Gsus4-7 
 I wish     I        had - n't 
 G      Gsus4-7  G7    Gsus4-7
@@ -49,7 +53,7 @@ Dumped me
    G7
 On your front porch 
 
-CHORUS
+[CHORUS 2]
 F    F/A  F/Bb  C           C/D
 Give me   my    money back
 Eb   Eb/G  Eb/A  Bb6

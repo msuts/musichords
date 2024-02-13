@@ -1,5 +1,7 @@
 ONE ANGRY DWARF AND 200 SOLEMN FACES by BEN FOLDS FIVE
+from the album WHATEVER AND EVER AMEN (1997)
 
+[VERSE 1]
 D9                  Gmaj9
 September '75 I was 47 inches high
 Em7                           B     B  C  C#
@@ -11,6 +13,7 @@ For your little minds to blow
 B                         F#7sus4  F#7
 I still got beat up after class
 
+[CHORUS 1]
                B7        E
 Yeah, now, I'm big and important
 A7        D         G                    F#7sus4  F#7

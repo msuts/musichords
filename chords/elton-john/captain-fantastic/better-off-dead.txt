@@ -1,11 +1,11 @@
-Better Off Dead - Elton John
+BETTER OFF DEAD by ELTON JOHN
+from the album CAPTAIN FANTASTIC AND THE BROWN DIRT COWBOY (1975)
 
-Refer to recording for intro, bridge, and outro rhythms.
+[INTRO]
+Ab/C  Db  F/A  Bbm  F Gb  Ab/C  Db 
+Ab/C  Db  F/A  Bbm  F Gb  Ab/C  Db 
 
-INTRO:
-Ab/C Db F/A Bbm F Gb Ab/C Db (2x)
-
-VERSE
+[VERSE 1]
 Db                                  Gb          Db
 There was a face on a hoarding that someone had drawn on
                                                       Gb      Db/F
@@ -19,16 +19,44 @@ As the flickering neon stands ready to fuse
     Gb/Db      Db          Ab          Bbm   
 The wind blows away all of yesterday's news
 
-Ab/C Db F/A Bbm F Gb Ab/C Db
+[INSTRUMENTAL BREAK 1]
+Ab/C  Db  F/A  Bbm  F Gb  Ab/C  Db 
 
-VERSE
+[VERSE 2]
+             Db                                 Gb           Db
 Well they've locked up their daughters and they battened the hatches
+                                               Gb       Db/F
 They always could find us but they never could catch us
+            Eb                                      Ab   Gb
 Through the grease streaked windows of an all night cafe
+Bbm                         Ab/C   Db
 We watched the arrested get taken away
+         Gb/Db     Db        Ab     Gb
 And that cigarette haze has ecology beat
+       Gb/Db          Db           Ab          Bbm
 As the whores and the drunks filed in from the street
 
+[CHORUS 1]
+F                                                  Bbm  Bbm/Ab
+'Cause the steam's in the boiler the coal's in the fire
+       Gb                     Ab       Db
+If you ask how I am then I'll just say inspired
+F                                           Bbm  Bbm/Ab
+If the thorn of a rose is the thorn in your side
+Eb                     Ab                      
+Then you're better off dead if you haven't yet died
+
+Db  Ab/C  Db  F/A  Bbm  F  Gb  Ab/C  Db
+
+[CHORAL VERSE]
+Db   Gb    Db
+Db   Gb    Db/F
+Eb   Ab    Gb
+Bbm  Ab/C  Db
+
+Gb/Db  Db  Ab  Gb
+Gb/Db  Db  Ab  Bbm
+
 CHORUS
 F                                                  Bbm  Bbm/Ab
 'Cause the steam's in the boiler the coal's in the fire
@@ -39,23 +67,18 @@ If the thorn of a rose is the thorn in your side
 Eb                     Ab                      
 Then you're better off dead if you haven't yet died
 
-BRIDGE:
-Db Ab/C Db F/A Bbm F Gb Ab/C Db (x2)
+Db  Ab/C  Db  F/A  Bbm  F  Gb  Ab/C  Db
+Db  Ab/C  Db  F/A  Bbm  F  Gb  Ab/C  Db
 
-INSTRUMENTAL VERSE - VOICE "OOH/AH"
-
-CHORUS
-F                                                  Bbm  Bbm/Ab
-'Cause the steam's in the boiler the coal's in the fire
-       Gb                     Ab       Db
-If you ask how I am then I'll just say inspired
-F                                           Bbm  Bbm/Ab
-If the thorn of a rose is the thorn in your side
-Eb                     Ab                      
-Then you're better off dead if you haven't yet died
-
-OUTRO:
-Db Ab/C Db F/A Bbm F Gb Ab/C Db (x2)
+[OUTRO]
+Ab/C       Db
+Better off dead
+F/A        Bbm
+Better off dead
+Db/F       Gb
+Better off dead
+Ab/C       Db
+Better off dead
 
 Ab/C       Db
 Better off dead
@@ -64,4 +87,4 @@ Better off dead
 Db/F       Gb
 Better off dead
 Ab/C       Db
-Better off dead (x2)
+Better off dead

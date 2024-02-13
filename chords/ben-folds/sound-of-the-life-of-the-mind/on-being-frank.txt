@@ -1,11 +1,11 @@
-On Being Frank by Ben Folds Five
-from the album "The Sound of the Life of the Mind" (2012)
+ON BEING FRANK by BEN FOLDS FIVE
+from the album THE SOUND OF THE LIFE OF THE MIND (2012)
 
-INTRO:
+[INTRO]
 Gmaj9  C/D
 Gmaj9  C/D
 
-VERSE:
+[VERSE 1]
   G          D/G     Am/G
 I had it all,     or should I say I saw it all?
            Em                  Bm           Em            Bm
@@ -28,7 +28,7 @@ I never knew which ones were mine
          Bm            D      D7
 Now he's gone, and I'm alone
 
-CHORUS:
+[CHORUS 1]
       G     
 And I don't know where I might be going
   Bm
@@ -40,10 +40,11 @@ But home, for me was always someone else you know
      Em             C              D
 That shadows always fall, when the sun goes down
 
+[INSTRUMENTAL BREAK]
 Gmaj9  C/D
 Gmaj9  C/D
 
-VERSE:
+[VERSE 2]
   G               D/G   Am/G  
 I shook the hands,      mafia dons and presidents
                 Em             Bm
@@ -59,7 +60,7 @@ But now he's gone,
             D     D7
 Now they're gone
 
-CHORUS:
+[CHORUS 2]
       G     
 And I don't know where I might be going
   Bm
@@ -71,15 +72,16 @@ But home, for me was always someone else you know
      Em             C              D
 That shadows always fall, when the sun goes down
 
+[INSTRUMENTAL BREAK]
 Gmaj9  C/D
 Gmaj9  C/D
 
-PIANO SOLO:
+[PIANO SOLO]
 G   D/G  Am/G
 Em  Bm  Em  Bm
 Am  Fmaj7   D
 
-BRIDGE:
+[BRIDGE]
 D          Em          C               D
 Alone, the shadow of a star, don't you know
      Em             C          D
@@ -87,7 +89,7 @@ That shadows always fall, yeah shadows always fall,
 
 When the sun goes down
 
-CHORUS:
+[CHORUS 3]
       G     
 And I don't know where I might be going
   Bm
@@ -97,7 +99,7 @@ Set me on the roadside coming home
     D         Em            C                D
 And home, for me was always someone else you know
 
-OUTRO:
+[OUTRO]
 Em  C  D  
 Em  C  D  
 Em  C  D  

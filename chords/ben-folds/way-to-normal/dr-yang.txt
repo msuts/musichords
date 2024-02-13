@@ -1,6 +1,7 @@
 DR. YANG by BEN FOLDS
+from the album WAY TO NORMAL (2008)
 
-INTRO:
+[INTRO]
 D  G/D
 D  G/D
 D  G/D
@@ -12,7 +13,7 @@ D  G/D
 D  G/D
 D
 
-VERSE:
+[VERSE 1]
 D   G/D  D
 Hey Dr.  Yin 
                               G
@@ -22,9 +23,19 @@ Deck my back with pins
             A                 D
 Connect the wires and plug me in
 
-[REPEAT INTRO]
+[INSTRUMENTAL BREAK 1]
+D  G/D
+D  G/D
+D  G/D
+  Uh-oh!
+D
 
-VERSE:
+D  G/D
+D  G/D
+D  G/D
+D
+
+[VERSE 2]
 D       G/D    D 
 Hey Lovemaster Z
             D/F#    D7/F#  G
@@ -34,9 +45,19 @@ When my bank card clears
         A         
 Tell me things I want to hear
 
-[REPEAT INTRO but "yeah yeah" instead of "uh oh"]
+[INSTRUMENTAL BREAK 2]
+D  G/D
+D  G/D
+D  G/D
+  Yeah yeah!
+D
 
-BRIDGE:
+D  G/D
+D  G/D
+D  G/D
+D
+
+[BRIDGE]
        Bm       G
 Well I might be dyin'
    D           A
@@ -58,7 +79,7 @@ Hey, hey,  hey, hey,
 Bb   Bb/F  Bb
 Hey, hey,  hey
 
-VERSE:
+[VERSE 3]
 D 
 Hey Dr.  Jack
                               G
@@ -68,7 +89,7 @@ All my joints and bones
         A              D
 Beat me up and send me home
 
-SOLO [in 4]:
+[PIANO SOLO]
 GOOD LUCK.
 Mind the bass note. Here are some of the other riffs Ben plays, in single notes (unless written as a chord).
 Dashes represent rest downbeats:
@@ -93,7 +114,7 @@ Even more high ass triplets:
 beat [A  D-C-A  Ab-G-F  D-C-A  ^D-C-A  Ab-G-F  D-C-A  ^D-C-A]
 [Ab-G-F  D-C-A  ^D-C-A  Ab-G-F  ^D-C-A  Ab-G-F  D-C-A  F-D-A]
 
-OUTRO:
+[OUTRO]
 D  A  G  D  A  G  D  A  G  D  A
 Hey,
 Bm       A        G

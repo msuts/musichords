@@ -1,18 +1,13 @@
-And So It Goes by Billy Joel
-From the album Storm Front, 1990
+AND SO IT GOES by BILLY JOEL
+From the album STORM FRONT (1989)
 
-Rhythms are not distinct throughout the song. Listen to the recording for more details.
+[INTRO]
+C    C/E  F    C/E  F    C/G      Asus2  Am
+G/B  C    G/B  C    C/E  F        F/A    G
+C    C/E  F    C/E  F    C/G      Asus2  Am
+G/B  C    C/E  F    F/A  Fmaj9/G  C
 
-Intro:
-C  C/E  F  C/E  F  C/G  Asus2  Am
-
-G/B  C  G/B  C  C/E  F  F/A  G
-
-C  C/E  F  C/E  F  C/G  Asus2  Am
-
-G/B  C  C/E  F  F/A  Fmaj9/G  C
-
-Verse:
+[VERSE 1]
    C   C/E  F     C/E   F  C/G  Asus2 Am
 In ev' ry   heart there is a    room
 G/B  C    G/B C    C/E  F    F/A  G
@@ -22,6 +17,7 @@ To heal the  wounds from lov - ers  past
 G/B  C       C/E F/A  Fmaj9/G  C
 Un - til a   new one  comes    along
 
+[VERSE 2]
   C     C/E  F   C/E  F      C/G  Asus2 Am
 I spoke to   you in   caut - ious tones
 G/B  C     G/B C    C/E  F  F/A   G
@@ -31,7 +27,7 @@ And still I    feel I    said too  much
 G/B C     C/E  F   F/A  Fmaj9/G  C
 My  sil - ence is  my   self     defense
 
-Chorus:
+[CHORUS 1]
     C     C/Bb      F/A    Fm/Ab
 And every time I've held a rose
    C/G     Am   D        Gsus4  G
@@ -41,7 +37,7 @@ And so it goes, and so it goes
     C/G     Am       D/F#  Gsus4   G
 And so will you soon I     suppose
 
-Verse:
+[VERSE 3]
     C   C/E  F     C/E   F    C/G  Asus2 Am
 But if  my   sil - ence  made you  leave
 G/B  C    G/B   C   C/E  F        F/A  G
@@ -51,12 +47,11 @@ So I  will share this room with you
 G/B  C   C/E  F    F/A  Fmaj9/G  C
 And  you can  have this heart to break
 
-Instrumental:
-C  C/E  F  C/E  F  C/G  Asus  Am
+[PIANO SOLO 1]
+C    C/E  F    C/E  F    C/G      Asus  Am
+G/B  C    C/E  F    F/A  Fmaj9/G  C
 
-G/B  C  C/E  F  F/A  Fmaj9/G  C
-
-Chorus:
+[CHORUS 2]
     C       C/Bb   F/A      Fm/Ab
 And this is why my eyes are closed
      C/G     Am       D        Gsus4  G
@@ -66,7 +61,7 @@ And so it goes, and so it goes
     C/G        Am   D/F#    Gsus4   G
 And you're the only one who knows
 
-Verse:
+[VERSE 4]
    C  C/E   F      C/E  F   C/G  Asus2 Am
 So I  would choose to   be  with you
 G/B    C   G/B  C      C/E  F    F/A  G
@@ -76,12 +71,11 @@ But you can  make de - cis - ions too
 G/B  C   C/E  F    F/A  Fmaj9/G  C
 And  you can  have this heart to break
 
-Instrumental:
-C  C/E  F  C/E  F  C/G  Asus2  Am
+[PIANO SOLO 2]
+C    C/E  F    C/E  F    C/G  Asus2  Am
+G/B  C    G/B  C    C/E  F    F/A    G
 
-G/B  C  G/B  C  C/E  F  F/A  G
-
-Outro:
+[OUTRO]
     C     C/Bb      F/A   Fm/Ab
 And so it goes, and so it goes
     C/G        F    Fmaj9/G     C

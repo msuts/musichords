@@ -1,11 +1,12 @@
-"Bruised" by Ben Folds
-Appears on the albums "Supersunnyspeedgraphic, the LP" and "The Bens"
+BRUISED by THE BENS
+Appears on the albums THE BENS (2003) and SUPERSUNNYSPEEDGRAPHIC, THE LP (2004)
 
-Intro:
+[INTRO]
 G#m7  C#m7  Bsus4
 G#m7  C#m7  Bsus4
 G#m7  C#m7  Bsus4 
 
+[VERSE 1]
 G#m  E   G#m                  E
 Oh   no, love just leaves you bruised
                G#m   E
@@ -20,6 +21,7 @@ Who will make the first last mistake
     G#m                  E                 G#m   E
 You say that good things come to those who wait
 
+[PRECHORUS 1]
 F#   E      
      Into the spiral
 F#   E
@@ -29,6 +31,7 @@ F#   E
 F#                   Emaj9
 Love just leaves you bruised
 
+[CHORUS 1]
   B      F#        B/D#          E
 I went because you said you’d be there
   B      F#     B/D#          E
@@ -40,8 +43,10 @@ But now I know, ba ba ba ba ba
 F#                   Emaj9
 Love just leaves you bruised
 
+[INSTRUMENTAL BREAK]
 G#m  E  G#m  E
 
+[VERSE 2]
 G#m  E       G#m                 E
 Oh   no, did love just leave you screwed?
            G#m  E
@@ -49,6 +54,7 @@ You got to go   slow
        G#m                  E
 ‘Cause love just leaves you bruised
 
+[PRECHORUS 2]
 F#   G#m      
      Into the spiral
 F#   G#m
@@ -58,6 +64,7 @@ F#   G#m
 F#                   E
 Love just leaves you bruised
 
+[CHORUS 2]
   B      F#        B/D#          E
 I went because you said you’d be there
   B      F#     B/D#          E
@@ -73,8 +80,10 @@ Love just leaves you bruised
     F#                    G#m   E
 And I’ve got the scars to prove it
 
+[INSTRUMENTAL BREAK]
 G#m  E  G#m  E  G#m  E
 
+[CHORUS 3]
   B      F#        B/D#          E
 I went because you said you’d be there
   B      F#     B/D#          E
@@ -88,6 +97,7 @@ Like I care
 F#                    G#m     
 Love just leaves you
 
+[CHORUS 4]
     B           F#     B/D#          E
 The world won’t turn until something breaks
 B        F#       B/D#          E
@@ -97,6 +107,7 @@ Good things come to those who wait
       B       F#   B/D#  E
 Well, I can’t wait
 
+[CHORUS 5]
   B      F#        B/D#          E
 I went because you said you’d be there
   B      F#     B/D#          E
@@ -106,7 +117,7 @@ When I didn’t know, I didn’t care
 B     F#   B/D#  E
 Now I know
 
-Outro:
+[OUTRO]
 B  F#  B/D#  E
 B  F#  B/D#  E
 B  F#  B/D#  E

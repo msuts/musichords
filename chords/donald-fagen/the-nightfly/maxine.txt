@@ -1,11 +1,12 @@
+MAXINE by DONALD FAGEN
+from the album THE NIGHTFLY (1980)
+
 [DETAILED INTRO]
 RH | G=Ab=C     F   G-Ab | C=Db=F     Bb  Ab-G  | G =C   F  G-Ab | F=Ab=C=F  C-F-Ab-C  B=Eb=B  Eb |
 LH | F       C  Ab  E-Eb | Bb      F  Db        | Eb=Bb          | Db=Ab=F             F          |
 
 RH | C       C=F  G-G-Ab | G  G=C=Eb  Gb=Bb=Eb=F  Eb | F#=A=B=D      F#-D-G-A | A=E=B  C-B-A  D#=A=B=D  C-B-A |
 LH | Ab  Eb  G           | A          D              | G         Eb           | F#=E          F=D#            |
-
-
 
 [INTRO]
 Fm2      Bbm2

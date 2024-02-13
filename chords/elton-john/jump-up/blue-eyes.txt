@@ -1,6 +1,7 @@
 BLUE EYES by ELTON JOHN
+from the album JUMP UP (1982)
 
-VERSE
+[VERSE 1]
 Bb6
 Blue Eyes
 F/A    Fm/Ab    Gm 
@@ -10,6 +11,7 @@ Like a deep blue sea
 Bb/D            F/C
 On a blue, blue day
 
+[VERSE 2]
 Bb6
 Blue Eyes
 F/A    Fm/Ab    Gm
@@ -21,7 +23,7 @@ I'll be far away
 A
 And I say
 
-CHORUS
+[CHORUS 1]
 Dm                               Bb/D
 Blue eyes holding back the tears
                  F
@@ -31,7 +33,7 @@ Baby's got blue eyes
           Eb11   Bb/C  C       F  Eb  Ab  Gb  Db/F  Ab/Eb  Eb 
 And she's alone          again
 
-VERSE
+[VERSE 3]
 Bb6
 Blue Eyes
 F/A    Fm/Ab    Gm 
@@ -41,6 +43,7 @@ Like a clear blue sky
               F/C
 watching over me
 
+[VERSE 3]
 Bb6
 Blue eyes
 F/A    Fm/Ab     Gm
@@ -52,7 +55,7 @@ Where I long to be
 A
 I will see
 
-CHORUS
+[CHORUS 2]
 Dm                        Bb/D
 Blue eyes laughing in the sun
                 F
@@ -72,5 +75,5 @@ Baby's got blue eyes
          Eb11  Bb/C  C       F  Eb  Ab  Gb  Db/F  Ab/Eb  Eb 
 And I am home          again
 
-OUTRO
+[OUTRO]
 Eb  Ab  Gb  Db/F  Ab/Eb  Eb

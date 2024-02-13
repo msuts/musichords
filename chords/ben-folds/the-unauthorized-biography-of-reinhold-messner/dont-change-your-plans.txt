@@ -1,10 +1,11 @@
-Don't Change Your Plans
-from "The Unauthorized Biography of Reinhold Messner" (1999)
+DON'T CHANGE YOUR PLANS by BEN FOLDS FIVE
+from THE UNAUTHORIZED BIOGRAPHY OF REINHOLD MESSNER (1999)
 
-Intro:
+[INTRO]
 A F#m7 G E
 A F#m7 G E
 
+[VERSE 1]
     A               F#m7
 Sometimes I get the feeling
        G                E
@@ -29,6 +30,7 @@ And I met you just in time
                  F            G
 'Cause there was nothing left
 
+[VERSE 2]
   A              F#m7
 I sat here on my suitcase
        G         E
@@ -51,12 +53,14 @@ It often makes no sense, in fact
   G          E                  F      G
 I never understand these things I feel
 
+[CHORUS 1]
 A/C#   Dm     G/B  C         F   Dm  G
 Don't  change your plans for me
 A/C#  Dm    G/B   C   F 
 I     won't move  to  LA
 A/C#  Dm     G/B  C       F
 The   leaves are  falling back east
+       F         G     Am
 That's where I'm gonna stay
 
 You have made me smile again

@@ -1,10 +1,10 @@
 HOLD THAT THOUGHT by BEN FOLDS FIVE
-From the album "The Sound of the Life of the Mind"
+From the album THE SOUND OF THE LIFE OF THE MIND (2012)
 
-INTRO:
+[INTRO]
 F#sus2maj7
 
-VERSE:
+[VERSE 1]
 F#                              B
 She broke down and cried at the strip mall acupuncturist 
                            F#
@@ -14,7 +14,7 @@ The Chinese doctor took her arm
       B                                                       F#
 Gazed at the floor, and read her wrist for the secrets in her mind
 
-CHORUS:
+[CHORUS 1]
  G#m
 "Here's your medicine," she said
         B                              F#
@@ -28,7 +28,7 @@ Ooooooh - ooooh
 C#    B     A     G
 Ooooooh - ooooh
 
-VERSE:
+[VERSE 2]
 F#                 B
 I was shown the 36 ways I'm not available 
                  F#
@@ -38,7 +38,7 @@ Later on that evening on the beach in Santa Monica
                     F#
 It was a very risky start 
 
-CHORUS:
+[CHORUS 2]
    G#m
 Suppose this stupid chart is right  
 B                                 F#
@@ -52,7 +52,7 @@ Ooooooh - ooooh
 C#    B     A     G
 Ooooooh - ooooh
 
-INSTRUMENTAL:
+[BRIDGE]
 F#sus2maj7
 
 F#sus4
@@ -60,7 +60,7 @@ Ah
 C#
 Ah 
 
-VERSE:
+[VERSE 3]
                                   B
 Did you ever see the film where a man who's given spectacles 
                          F#
@@ -72,7 +72,7 @@ And when they take the glasses off
     B                              F#
 The eyes he's always had see sky below him and he falls again 
 
-CHORUS:
+[CHORUS 3]
       G#m                       
 Well, you hold that thought
     B                     
@@ -86,11 +86,11 @@ You hold that thought
     B                     
 And I'll hold that thought
 
-[bass notes under F#]
+(bass notes under F#)
 F# G# A#
 F# A# C#
 repeat
 
-OUTRO:
+[OUTRO]
 C#    B     A     G  F#maj7
 Ooooooh - ooooh

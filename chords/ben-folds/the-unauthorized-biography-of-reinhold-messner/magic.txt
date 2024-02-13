@@ -1,7 +1,12 @@
+MAGIC by BEN FOLDS FIVE
+from THE UNAUTHORIZED BIOGRAPHY OF REINHOLD MESSNER (1999)
+
+[INTRO]
 Dm    C     F     C/E
 Dm    C     F     Bb     C
 F/A   Bb    C
 
+[VERSE 1]
 Dm                    C         F    C/E
 From the back of your big brown eyes
 Dm              C       F    Bb     C
@@ -17,6 +22,7 @@ It's just as well
       F/A   Bb     C     F      D7
 You'd never be yourself again
 
+[CHORUS 1]
              Gm
 Saw you last night
              C            F/A   Bb
@@ -26,14 +32,17 @@ Stars in your eyes
               C             Dm
 Free from the life that you knew
 
+[BREAK]
 Dm    C     F
 Dm    C     F     Bb     C
 F/A   Bb    C
 
+[ORCHESTRAL]
 Dm    C     F     C/E
 Dm    C     F     Bb     C
 F/A   Bb    C
 
+[BRIDGE]
 Dm                    C         F      Bb       C
 You're the magic that holds the sky up from the ground
 Dm                     C           F          Bb    C
@@ -43,6 +52,7 @@ Trading places with an angel now
 
 Dm    D7
 
+[CHORUS 2]
              Gm
 Saw you last night
              C            F/A   Bb
@@ -58,6 +68,7 @@ Stars in your eyes
              F
 Smiled in my room
 
+[OUTRO]
 Dm    C     F
 Dm    C     F     Bb     C
 F/A   Bb    C

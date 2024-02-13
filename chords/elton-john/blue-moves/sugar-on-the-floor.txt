@@ -1,12 +1,13 @@
 SUGAR ON THE FLOOR by ELTON JOHN
+released as the B-side to the single ISLAND GIRL (1975)
 
-INTRO:
+[INTRO]
 F7   Bb/F    F
 G7   C/G     G
 F/C  C       Dm/C
 C7   C7sus4  C7
 
-VERSE:
+[VERSE 1]
 F                        Fmaj7
   You're a stranger to me
          F7           Bb
@@ -20,7 +21,7 @@ When we lie on the shore
 
 G9  Bb/C
 
-VERSE 2:
+[VERSE 2]
      F              C/F
 It's warm where you are
     Eb/F           Bb      
@@ -34,7 +35,7 @@ Could I ask for more
 
 Cm  Bb/D
 
-CHORUS:
+[CHORUS 1]
 Ebmaj7                        Bb           Bb/F F  Bb/F  F
 Looking at you now I know you only want to find me
 Ebmaj7                   Bb        F/A    Gm   
@@ -59,7 +60,7 @@ I feel like sugar on the floor
 
 Cm  Bb/D
 
-CHORUS 2:
+[CHORUS 2]
 Ebmaj7                        Bb           Bb/F  F  Bb/F  F
 Looking at you now I know you only want to find  me
 Ebmaj7                   Bb        F/A    Gm   
@@ -84,7 +85,7 @@ I feel like sugar on the floor
             C9           G9    C/G  G7
 I feel like sugar on the floor
 
-OUTRO:
+[OUTRO]
 F/C  C     Dm/C
 F7   Bb/F  F
 

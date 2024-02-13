@@ -1,8 +1,10 @@
-Moon River, Cover by Elton John
+MOON RIVER by ELTON JOHN
+As performed on his solo piano tour (2003)
 
-Intro:
+[INTRO]
 C  Am  Fm  G
 
+[VERSE 1]
 C      Am     F            C/E
   Moon River, wider than a mile
     F               C/E        Bm7  E7
@@ -14,6 +16,7 @@ Wherever you're goi -  ng
     Em   Am       Dm  G
 I'm go - ing your way
 
+[VERSE 2]
 C   Am       F              C/E
 Two drifters off to see the world
 F                       C/E     Bm7   E7
@@ -27,9 +30,14 @@ F                 C/E
 Am   Dm    G      C
 Moon River    and me
 
-Solo:
-First verse chords
+[SOLO]
+C   Am     F    C/E
+F   C/E    Bm7  E7
+Am  C/G    F    Bb
+Am  B7/F#  B7
+Em  Am     Dm   G
 
+[VERSE 3]
 C      Am     F            C/E
   Moon River, wider than a mile
     F               C/E        Bm7  E7
@@ -41,6 +49,7 @@ Wherever you're goi -  ng
     Em   Am       Dm  G
 I'm go - ing your way
 
+[VERSE 4]
 C   Am       F              C/E
 Two drifters off to see the world
 F                       C/E     Bm7   E7

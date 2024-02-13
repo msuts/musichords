@@ -1,46 +1,46 @@
-Narcolepsy - Ben Folds
-From "The Unauthorized Biography of Reinhold Messner" (1999)
+NARCOLEPSY by BEN FOLDS FIVE
+from THE UNAUTHORIZED BIOGRAPHY OF REINHOLD MESSNER (1999)
 
-Intro A:
+[INTRO 1]
 C Cmaj7 G/C C6 F/C G/C C
 C Cmaj7 G/C C6 F/C G/C C
 G F/G G F/G
 G F/G G F/G
 C
 
-Intro B:
+[INTRO 2]
 C Cmaj7 G/C C6 F/C G/C C
 C Cmaj7 G/C C6 F/C G/C C
 G F/G G F/G
 G F/G G F/G
 C
 
-Verse:
+[VERSE 1]
 C  Cmaj7  G/C  C6
 I  should warn you 
-F/C  G/C   C
-I    go to sleep 
+F/C  G/C  F/C  C
+I    go   to   sleep 
 C  Cmaj7  G/C  C6
 I  know   you  don't 
-F/C  G/C    C
-Know what I mean 
+F/C  G/C  F/C  C
+Know what I    mean 
 
 G    F/G  G  F/G
 Yet 
   G  F/G  G  F/G  
 I get    
 
-Verse:
+[VERSE 2]
   C   Cmaj7  G/C   C6     
 Upset or     hap - py 
-F/C  G/C     C
-I    go   to sleep 
+F/C  G/C  F/C  C
+I    go   to   sleep 
 C    Cmaj7  G/C   C6
 No - thing  hurts when 
-F/C  G/C   C
-I    go to sleep 
+F/C  G/C  F/C  C
+I    go   to   sleep 
 
-Bridge:
+[BRIDGE 1]
         F/G  C/G
 But I'm not  tired 
     C/G  G     C/G G
@@ -50,10 +50,11 @@ I'm not  tired
     C/G  G     C/G G
 I'm not  tired 
 
-Instrumental Break:
+[INSTRUMENTAL BREAK]
 C  A7/C#  G/D  C/E  F  C/E  G/D  A7/C#
 C  A7/C#  G/D  C/E  F  Fmaj7
 
+[BRIDGE 2]
   E7/G#              Am
 I know it seems that I don't care 
     G/B             Csus4   C
@@ -72,7 +73,7 @@ I'm drowning, save me
         C
 Wake me up 
 
-Verse:
+[VERSE 3]
 C  Cmaj7  G/C   C6
 I  should warn  you 
 F/C  G/C     C
@@ -82,7 +83,7 @@ You won't  know  when
 F/C  G/C     C
 I    go   to sleep 
 
-Outro:
+[OUTRO]
            G
 'Cause I'm not tired 
 I'm not tired 

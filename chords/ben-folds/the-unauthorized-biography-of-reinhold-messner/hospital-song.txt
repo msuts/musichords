@@ -1,9 +1,10 @@
-"Hospital Song" by Ben Folds
-from the album The Unauthorized Biography of Reinhold Messner (1999)
+HOSPITAL SONG by BEN FOLDS FIVE
+from THE UNAUTHORIZED BIOGRAPHY OF REINHOLD MESSNER (1999)
 
-Intro:
+[INTRO]
 Ab7  Fm7  Ab7  Fm7
 
+[VERSE]
 Ab7               Fm7/Ab
 Lying awake in my hospital room
 Ab-#5**                    Fm7/Ab
@@ -18,14 +19,13 @@ I don't believe that it's true
 Bbm9  Dbmaj7
 Bbm9  Dbmaj7
 
-Piano solo:
+[PIANO SOLO]
 Fm      Cm7
 Fm      Cm7
 Dbmaj7  Cm7
 Bbm     Fmadd9
 
-Revision June 2 2014:
-**Since the chords are played in a rolling style like so:
+**Chords are played in a rolling style like so:
 Ab7: Gb-C-Db-Eb-Db-C
 Fm7/Ab: F-C-Db-Eb-Db-C
 

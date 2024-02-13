@@ -1,4 +1,7 @@
-[Verse 1]
+TURN THE LIGHTS BACK ON by BILLY JOEL
+Released as a single (2024)
+
+[VERSE 1]
 C               F
 Please open the door
            G                          E/G#
@@ -16,7 +19,7 @@ Stuck in a frame, unable to change
       Gsus4  G  F  Em
 I was wrong
 
-[Chorus]
+[CHORUS 1]
     C             F          G
 I'm late, but I'm here right now
          E/G#    E7/G#   Am 
@@ -37,7 +40,7 @@ To turn the lights  back on?
 [INSTRUMENTAL BREAK]
 C  F  G
 
-[Verse 2]
+[VERSE 2]
 Herе, stuck on a hill
 Outsiders inside the homе that we built
 The cold settles in
@@ -47,7 +50,7 @@ Maybe you'll learn to and maybe you won't
 You've had enough, but I won't give up
 On you
 
-[Chorus]
+[CHORUS 2]
 I'm late, but I'm here right now
 And I'm tryin' to find the magic
 That we lost somehow
@@ -57,9 +60,9 @@ As we're layin' in the darkness
 Did I wait too long
 To turn the lights back on?
 
-[Instrumental Interlude]
+[PIANO SOLO]
 
-[Chorus]
+[CHORUS 3]
 I'm late, but I'm here right now
 Is there still time for forgiveness?
 Won't you tell me how?
@@ -69,7 +72,7 @@ As we're layin' in the darkness
 Did I wait too long
 To turn the lights back on?
 
-[Outro]
+[OUTRO]
 I'm here right now
 Yes, I'm here right now
 Looking for forgiveness

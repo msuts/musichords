@@ -1,20 +1,25 @@
-INTRO:
-C G/C C6 G/C (x2)
-G Fmaj7 C (x2)
+COLOGNE by BEN FOLDS
+from the album WAY TO NORMAL (2008)
 
-Single notes: F G D B F G D B A E F C B D E
+[INTRO]
+C  G/C  Am/C  G/C
+C  G/C  Am/C  G/C
 
-VERSE:
-C       Cmaj7    C6                  G/C
-Here in Cologne     I know I said it wrong
-C                   Cmaj7  C6                 G/C
-I walked you to the train     and back across alone
-Am          E     F                 D7     
-To my hotel room     and ordered me some food
-C/G         G                 Fmaj7                             
-And now I'm wondering why the floor has suddenly become a moving target
+G  Fmaj7  C
+G  Fmaj7  C
+(Single notes: F G D B F G D B A E F C B D E)
 
-Chorus:
+[VERSE 1]
+C        Cmaj7     C6                  G/C
+  Here in  Cologne   I know I said it wrong
+C                      Cmaj7  C6                 G/C
+  I walked you to the train     and back across alone
+Am            E7    F             D7     
+  To my hotel room   and ordered me some food
+C/G           G                 Fmaj7                             
+  And now I'm wondering why the floor has suddenly become a moving target
+
+[CHORUS 1]
 C            Cmaj7
 Four, three, two, one,
     Am          G
@@ -26,14 +31,29 @@ If you will let go
 Ab          
 Four, three, two
 
-VERSE 2:
-Says here an astronaut put on a pair of diapers
-Drove eighteen hours to kill her boyfriend
-And in my hotel room, I'm wondering If you read that story too?
-And if we both might be having the same imaginary conversation
+[VERSE 2]
+C              Cmaj7     C6                 G/C
+  Says here an astronaut    put on a pair of diapers
+C                Cmaj7  C6                G/C
+  Drove eighteen hours    to kill her boyfriend
+Am                E7                 F                   D7     
+  And in my hotel room, I'm wondering if you read that story too?
+C/G         G             Fmaj7     
+  And if we both might be having the same imaginary conversation
 
-[Chorus]
+[CHORUS 2]
+C            Cmaj7
+Four, three, two, one,
+    Am          G
+I'm letting you go
+C      Cmaj7
+I will let go
+   Am           G
+If you will let go
+Ab          
+Four, three, two
 
+[BRIDGE]
 G
 Ohhhhh-aah
 Fmaj7           C
@@ -43,11 +63,13 @@ Ohhhhh-aah
 Fmaj7             C
 The ceiling opens in disguise
 
-Am             E     F              D7
-Such a painful trip     To find out this is it
-C/G      G                     Fmaj7
-And as I go to sleep You'll be waking up
+[BRIDGE]
+Am               E7    F             D7
+  Such a painful trip   to find out this is it
+C/G        G                     Fmaj7
+  And as I go to sleep you'll be waking up
 
+[CHORUS 3]
 C                 Cmaj7
 Four, three, two, one,
     Fmaj7       G
@@ -57,7 +79,7 @@ I will let go
 Fmaj7           G
 If you will let go
 
-
+[OUTRO]
 G
 Ohhhhh-aah
 Fmaj7     C
@@ -67,6 +89,7 @@ Ohhhhh-aah
 Fmaj7     C
 Ohhhhh-aah
 
-G Fmaj7 C x2
-
-C Cmaj7 Am Cmaj7 x2
+G  Fmaj7  C
+G  Fmaj7  C
+C  G/C  Am/C  G/C
+C  G/C  Am/C  G/C

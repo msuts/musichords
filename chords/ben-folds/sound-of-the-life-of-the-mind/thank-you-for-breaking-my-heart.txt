@@ -1,6 +1,7 @@
-Thank You for Breaking My Heart by Ben Folds Five
+THANK YOU FOR BREAKING MY HEART by BEN FOLDS FIVE
+from the album THE SOUND OF THE LIFE OF THE MIND (2012)
 
-INTRO:
+[INTRO]
 LH | G    F  F   | G    F  -   | G    E    E     | G-E  E  E-G-A-B | G-Eb  Eb   Eb  |
 RH | A-D     *-B | A-D     *-G | A-D  *-G  A-D B | A-D             | G-C   *-B  C-D |
 
@@ -13,8 +14,7 @@ RH | D   C    - | C  *-B  G-D | B   A     E-Eb | D  D^   D   | D-C# C-A F#-D C-A
 LH | D  F-G  - | D  E-G  - | D  Eb-G  - | G-D-G |
 RH | D  D    D | D  D    D | D  D     D | D     |
 
-
-VERSE:
+[VERSE 1]
         Gsus2/F  Gsus2             Gsus4/E  Gsus4
 Yeah, I want           a different ans - wer
       Gsus2/F  Gsus2           Gsus4/E  Gsus4
@@ -26,7 +26,7 @@ And this time I got    it
      Gm7/Eb  /F    /G   /A  /Bb  /C
 It's o           - ver
 
-CHORUS:
+[CHORUS 1]
 G/D           Am/D     Bm7/D  Am/D   [SINGLE NOTES: A D A G F# D E G F# D B G F# D]
 Thank you for breaking my     heart
 Bm7/D  Am/D 
@@ -36,7 +36,9 @@ I left it wide open and asked you to stay
     C        Bm
 But you know better
 
-[INTRO REPEAT]
+[REPEAT INTRO]
+
+[VERSE 2]
         Gsus2/F  Gsus2              Gsus4/E  E  [BASS: C]
 Guess I thought         it wouldn't happen
             Gsus2/F  Gsus2           Gsus4/E  E  [BASS: C]
@@ -48,7 +50,7 @@ The clouds and their lin - ing
      Gm7/Eb  /F  /G  /A  /Bb  /C
 That o -     pen up  and pour
 
-CHORUS:
+[CHORUS 2]
     G/D           Am/D     Bm7/D  Am/D   [SINGLE NOTES: A D A G F# D E G F# D B G F# D]
 And thank you for breaking my     heart
 Bm7/D  Am/D 
@@ -58,7 +60,7 @@ What a fool to imagine that you'd feel the same
     C2       Bm
 But you know better
 
-BRIDGE:
+[BRIDGE]
 Em/G                Bm/F#
 Rain has washed the leaves away
 C/G     Am7      Bm/F#  Bm-no5
@@ -68,7 +70,7 @@ I'm pulling the door too
     C/E         C
 And closing the blinds
 
-CHORUS/OUTRO:
+[CHORUS 3]
    G/D           Am/D     Bm7/D  Am/D   [SINGLE NOTES: A D A G F# D E G F# D B G F# D]
 So thank you for breaking my     heart
 Bm7/D  Am/D 
@@ -80,7 +82,9 @@ Tell me this will pass
          C         Bm    D
 Soon and I'll know bet - ter
 
-[INTRO REPEAT]
+[REPEAT INTRO]
+
+[OUTRO]
 G-F-G
 G-E-G
 G-Eb-G
