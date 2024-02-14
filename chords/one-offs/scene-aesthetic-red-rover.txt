@@ -1,11 +1,11 @@
-"Red Rover" by The Scene Aesthetic
-A very old transcription of mine which I never uploaded. It may have some imperfections.
+RED ROVER by THE SCENE AESTHETIC
+from the EP A TYPE & A SHADOW (2009)
 
-Intro:
+[INTRO]
 C#m7 D6 F#m D
 C#m7 D6 F#m E
 
-Verse:
+[VERSE 1]
      A2    Dmaj9
 It's about time
                          A2        Dmaj9
@@ -14,7 +14,6 @@ To take a chance & let myself slip through
 It's been a while since i felt like this
                  A2    Dmaj9
 Did it happen to you?
-
              A2       Dmaj9
 We've come a long way since
                           A2     Dmaj9
@@ -24,7 +23,7 @@ You rolled your eyes at me & that is fine
                          A2        Dmaj9
 Because we finally broke through
 
-Pre-Chorus:
+[PRECHORUS 1]
      D          A/C#          Esus4         A
 It's always the same with the games that we play
           D              A/C#        Esus4     A
@@ -33,7 +32,8 @@ Where the boys chase the girls & the girls run away
 But you never went running, I'm surprised that you stayed
     A2       Dmaj9  
 For me, with me
- 
+
+[CHORUS 1]
 A2                    D
 I'll continue to keep saying the things that i say
 A2                         D                        
@@ -41,9 +41,11 @@ And we'll continue to keep playing the games that we play
                     Dm                 A2   Dmaj9                  
 And maybe just this once we'll work it out
 
+[INSTRUMENTAL BREAK 1]
 C#m7 D6 F#m D
 C#m7 D6 F#m E
 
+[VERSE 2]
 Dmaj9       A2               Dmaj9
 You're not alone, confide in me
        A2                   Dmaj9
@@ -59,7 +61,7 @@ I will always follow through
 Bm                       Dm
 Don't ever worry you are never alone in this
 
- 
+[CHORUS 2]
 A2                    D
 I'll continue to keep saying the things that i say
 A2                         D                        
@@ -67,7 +69,7 @@ And we'll continue to keep playing the games that we play
                     Dm                 A2                  
 And maybe just this once we'll work it out
 
- 
+[OUTRO]
 A2                    D
 I'll continue to keep saying the things that i say
 A2                         D                        

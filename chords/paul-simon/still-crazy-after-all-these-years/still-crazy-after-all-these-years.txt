@@ -1,9 +1,13 @@
-INTRO: 
+STILL CRAZY AFTER ALL THESE YEARS by PAUL SIMON
+from the album STILL CRAZY AFTER ALL THESE YEARS (1975)
+
+[INTRO] 
 Amaj7     Emaj7
 EmMaj7/B  Am7
 Cmaj7     D
 G  C/G    G 
 
+[VERSE 1]
          G   G7/B         C                 F7
 I met my old lover on the street last night
     G                 Cdim/F#              Bsus4   B7  Em7 Ebm7
@@ -15,6 +19,7 @@ Still crazy after all these years   Oh...
       G/D         D7        Cm        D7  G  C/G  G
 Still crazy after all these years
 
+[VERSE 2]
             G       G7/B             C          F7
 I’m not the kind of man who tends to socialize
           G       Cdim/F#      Bsus4  B7   Em7 Ebm7
@@ -26,7 +31,7 @@ Still crazy after all these years   Oh...
       G/D         D7        G9         
 Still crazy after all these years
 
-
+[BRIDGE 1]
 Amaj7               Emaj7        EmMaj7
 Four in the morning crapped out, yawn  - ing
 Abm7       Dbsus4 Db   F#maj7
@@ -36,10 +41,12 @@ I’ll never wor-ry Why should I?
      C          B    C  B  C  B  Am7
 It’s all gonna fade
 
+[SAX SOLO]
 A  D/A  A     D/A
 A  G/B  A/C#  D
 A  G/B  A/C#  D9
 
+[VERSE 3]
       G         G7/B         C              F7
 Now I sit by my window and I watch the cars
   G                 Cdim/F#         Bsus4   B7  E  D/E
@@ -48,6 +55,8 @@ I fear I’ll do some damage one fine day
 But I would not be convicted by a jury of my peers
       A           E   Fdim7 F#m     D#dim7
 Still crazy after all these years,  Oh
+
+[OUTRO]
       A 
 Still crazy    
       D           Dsus4  D         

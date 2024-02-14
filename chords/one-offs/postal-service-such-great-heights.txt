@@ -1,5 +1,7 @@
-"Such Great Heights" by the Postal Service, as covered by Ben Folds
+SUCH GREAT HEIGHTS by THE POSTAL SERVICE
+from the album GIVE UP (2003)
 
+[VERSE 1]
 F                    Am
 I am thinking it's a sign
                          Gm              
@@ -8,7 +10,6 @@ That the freckles in our eyes
 Are mirror images and when
                           F
 We kiss they're perfectly aligned
-
               Am
 And I have to speculate
                      Gm
@@ -18,6 +19,7 @@ Us into corresponding shapes
                             F
 Like puzzle pieces from the clay
 
+[VERSE 2]
                              Am
 And true, it may seem like a stretch,
                                 Gm
@@ -26,7 +28,6 @@ But its thoughts like this that catch
 My troubled head when you're away
                          F
 When I am missing you to death
-
                               Am
 When you are out there on the road
                      Gm
@@ -36,6 +37,7 @@ And when you scan the radio,
                                
 I hope this song will guide you
 
+[CHORUS 1]
 F                             C   
 They will see us waving from such great heights,
       Gm                 Am
@@ -45,13 +47,13 @@ But everything looks perfect from far away,
       Gm             Am
 "Come down now," but we'll stay...
 
+[VERSE 3]
 F                  Am
 I tried my best to leave
                  Gm
 This all on your machine
                            Bb
 But the persistent beat it sounded thin upon listening
-
 F                         Am
 And that frankly will not fly.
                             Gm
@@ -60,6 +62,7 @@ You will hear the shrillest highs
 And lowest lows with the windows down
 When this is guiding you home
 
+[CHORUS 2]
 F                             C
 They won't see us waving from such great heights,
       Gm                 Am
@@ -69,10 +72,11 @@ But everything looks perfect from far away,
       Gm                   Am
 "Come down now," but we'll stay...
 
-Synth Solo:
+[SYNTH SOLO]
 F  Am  Gm 
 F  Am  Gm
 
+[CHORUS 3]
 F                                  C
 They will see us waving from such great heights,
       Gm                 Am
@@ -82,6 +86,7 @@ But everything looks perfect from far away,
       Gm             Am
 "Come down now,"
 
+[CHORUS 4]
 F                             C
 They will see us waving from such great heights,
       Gm                 Am
@@ -91,7 +96,7 @@ But everything looks perfect from far away,
       Gm                   Am
 "Come down now," but we'll stay...
 
-Outro:
+[OUTRO]
 F  C  Gm  Am
 F  C  Gm  Am
 F  C  Gm  Am

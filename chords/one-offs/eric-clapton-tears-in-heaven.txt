@@ -1,60 +1,106 @@
-| A   E/G# | F#m A/E | D/F#  E7sus4 E7|  A  |
+TEARS IN HEAVEN by ERIC CLAPTON
+from the soundtrack of RUSH (1992)
 
- A	  E/G#	  F#m   A/E
-Would you know my name,
-D/F#  A/E      	E
-If I saw you in heaven,
-A        E/G#   F#m   A/E
-Would it be the same,
-D/F#  A/E       E
-If I saw you in heaven,
+[INTRO]
+A     E/G#   F#m  A/E
+D/F#  E7sus4 E7   A  
 
-F#m	     C#/F
-I must be strong,
-Em6       F# 
-and carry on,
-E/F#	Bm7	     E7
-Cause I know I don't belong,
-        A
-Here in heaven. 
+[VERSE 1]
+A	    E/G#    F#m   A/E
+  Would you know my name
+D/F#   A/E        E
+  If I saw you in heaven
+A          E/G#   F#m   A/E
+  Would it be the same
+D/F#    A/E       E
+  If I saw you in heaven
 
-| A   E/G# | F#m A/E | D/F#  E7sus4 E7|  A  |
-
-Would you hold my hand
-If I saw you in heaven
-Would you help me stand
-If I saw you in heaven
-I'll find my way, through night and day
-Cause I know I just can't stay
+[CHORUS 1]
+F#m	        C#/F
+  I must be strong
+Em6          F# 
+  and carry on
+E/F#	Bm7	          E7
+Cause I know I don't belong
+           A
 Here in heaven
 
-C        G/B	     Am
-Time can bring you down 
-	  D/F#      G   D/F  Em  D/F  G
+[INSTRUMENTAL BREAK 1]
+A     E/G#   F#m  A/E
+D/F#  E7sus4 E7   A  
+
+[VERSE 2]
+A           E/G#    F#m   A/E
+  Would you hold my hand
+D/F#   A/E        E
+  If I saw you in heaven
+A           E/G#    F#m   A/E
+  Would you help me stand
+D/F#    A/E       E
+  If I saw you in heaven
+
+[CHORUS 2]
+F#m             C/F#
+  I'll find my way
+Em6                  F#
+  Through night and day
+E/F#    Bm7                  E7
+Cause I know I just can't stay
+           A
+Here in heaven
+
+[BRIDGE]
+C          G/B	     Am
+  Time can bring you down 
+	 D/F#      G    D/F#  Em  D/F#  G
 Time can bend your knee 
-C	     G		Am
-Time can break your heart 
+C	   G          Am
+  Time can break your heart 
          D/F#    G
 Have you begging please 
-	  E
+	E
 Begging please 
 
-| A   E/G# | F#m A/E | D/F#  E7sus4 E7|  A  |
+[INSTRUMENTAL BREAK 2]
+A     E/G#   F#m  A/E
+D/F#  E7sus4 E7   A
 
-Beyond the door 
-There's peace I'm sure. 
-And I know there'll be no more... 
+[CHORUS 3]
+F#m             C/F#
+  Beyond the door 
+Em6                  F#
+  There's peace I'm sure
+E/F#  Bm7                   E7
+And I know there'll be no more
+            A
 Tears in heaven
 
-| A   E/G# | F#m A/E | D/F#  E7sus4 E7|  A  |
+[INSTRUMENTAL BREAK 3]
+A     E/G#   F#m  A/E
+D/F#  E7sus4 E7   A
 
-Would you know my name
-If I saw you in heaven
-Will it be the same
-If I saw you in heaven
-I must be strong, and carry on
+[VERSE 3]
+A	    E/G#    F#m   A/E
+  Would you know my name
+D/F#   A/E        E
+  If I saw you in heaven
+A          E/G#   F#m   A/E
+  Would it be the same
+D/F#    A/E       E
+  If I saw you in heaven
+
+[CHORUS 4]
+F#m	        C#/F
+  I must be strong
+Em6          F# 
+  and carry on
+E/F#	Bm7	          E7
 Cause I know I don't belong
+           A
 Here in heaven
 
+[OUTRO]
+E/F#	Bm7	          E7
 Cause I know I don't belong
-Here in heaven  
+           A
+Here in heaven
